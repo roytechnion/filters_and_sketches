@@ -16,11 +16,13 @@ pub mod more_streaming;
 use crate::more_streaming::nitro_cms::NitroCMS;
 use crate::more_streaming::space_saving::SpaceSaving;
 use crate::more_streaming::nitro_hash::NitroHash;
+use crate::more_streaming::cuckoo::CuckooCountingFilter;
+use crate::more_streaming::nitro_cuckoo::NitroCuckoo;
 use crate::more_streaming::traits::ItemIncrement;
 use crate::more_streaming::traits::ItemQuery;
 
 #[derive(Debug,Clone)]
-pub enum DsType { DASH, CMS, NitroCMS, FPDASH, SpaceSaving, NitroHash }
+pub enum DsType { DASH, CMS, NitroCMS, FPDASH, SpaceSaving, NitroHash, Cuckoo, NitroCuckoo }
 
 impl FromStr for DsType {
     type Err = String;
@@ -33,7 +35,9 @@ impl FromStr for DsType {
             "FPDASH" => Ok(DsType::FPDASH),
             "SpaceSaving" => Ok(DsType::SpaceSaving),
             "NitroHash" => Ok(DsType::NitroHash),
-            _ => Err(format!("Unrecognized DsType {s}: try DASH, CMS, NitroCMS, SpaceSaving, FDDASH, or NitroHash"))
+            "Cuckoo" => Ok(DsType::Cuckoo),
+            "NitroCuckoo" => Ok(DsType::NitroCuckoo),
+            _ => Err(format!("Unrecognized DsType {s}: try DASH, CMS, NitroCMS, SpaceSaving, FDDASH, NitroHash, Cuckoo or NitroCuckoo"))
         }
     }
 }
@@ -197,6 +201,26 @@ fn nitrohash_time(config: Config, processed: Vec<FlowId>) -> Duration {
     return generic_time(config, processed, counts);
 }
 
+fn cuckoo_accuracy(config: Config, processed: Vec<FlowId>) -> f64 {
+    let mut counts= CuckooCountingFilter::<DefaultHasher>::with_capacity(processed.len());
+    return generic_accuracy(config, processed, counts);
+}
+
+fn cuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
+    let mut counts= CuckooCountingFilter::<DefaultHasher>::with_capacity(processed.len());
+    return generic_time(config, processed, counts);
+}
+
+fn nitrocuckoo_accuracy(config: Config, processed: Vec<FlowId>) -> f64 {
+    let mut counts= NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample);
+    return generic_accuracy(config, processed, counts);
+}
+
+fn nitrocuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
+    let mut counts= NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample);
+    return generic_time(config, processed, counts);
+}
+
 fn generic_accuracy<Q: Sized>(config: Config, processed: Vec<FlowId>, mut counts: Q) -> f64 
 where
 Q: ItemIncrement + ItemQuery<Item=u32> + std::fmt::Debug, <Q as ItemQuery>::Item: std::fmt::Display, f64: From<<Q as ItemQuery>::Item>
@@ -270,6 +294,8 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
             DsType::FPDASH => 0.0,
             DsType::SpaceSaving => space_accuracy(config, processed),
             DsType::NitroHash => nitrohash_accuracy(config, processed),
+            DsType::Cuckoo => cuckoo_accuracy(config, processed),
+            DsType::NitroCuckoo => nitrocuckoo_accuracy(config, processed),
             //_ => (),
         };
         println!("Calculated MSRE is {}", msre);
@@ -281,6 +307,8 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
             DsType::FPDASH => fpdash_run(config, processed),
             DsType::SpaceSaving => space_time(config, processed),
             DsType::NitroHash => nitrohash_time(config, processed),
+            DsType::Cuckoo => cuckoo_time(config, processed),
+            DsType::NitroCuckoo => nitrocuckoo_time(config, processed),
             //_ => (),
         };
         println!("Running time in microsecs = {}", elapsed_time.as_micros());

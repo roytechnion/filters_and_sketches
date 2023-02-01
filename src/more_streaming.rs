@@ -1,6 +1,8 @@
 pub mod nitro_cms;
 pub mod space_saving;
 pub mod nitro_hash;
+pub mod cuckoo;
+pub mod nitro_cuckoo;
 pub mod traits;
 
 #[allow(

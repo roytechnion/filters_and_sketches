@@ -1,6 +1,8 @@
-use crate::{FlowId,NitroHash,SpaceSaving,NitroCMS};
+use crate::{FlowId,NitroHash,SpaceSaving,NitroCMS,CuckooCountingFilter,NitroCuckoo};
 use amadeus_streaming::CountMinSketch;
 use dashmap::DashMap;
+use crate::Hasher;
+
 /// Increment an item's count
 pub trait ItemIncrement {
 	fn item_increment(&mut self,id: FlowId);
@@ -32,6 +34,20 @@ impl ItemIncrement for DashMap<FlowId,u32> {
 		} else {
 			self.insert(id,1);
 		}
+	}
+}
+impl <H>ItemIncrement for CuckooCountingFilter<H> 
+where H:Hasher + Default,
+{
+	fn item_increment(&mut self,id: FlowId) {
+		self.add(&id);
+	}
+}
+impl <H>ItemIncrement for NitroCuckoo<H> 
+where H:Hasher + Default,
+{
+	fn item_increment(&mut self,id: FlowId) {
+		self.add(&id);
 	}
 }
 
@@ -67,6 +83,22 @@ impl ItemQuery for DashMap<FlowId,u32> {
 	type Item = u32;
 	fn item_query(&self,id: FlowId) -> u32 {
 		return *self.get(&id).unwrap();
+	}
+}
+impl <H>ItemQuery for CuckooCountingFilter<H> 
+where H:Hasher + Default,
+{
+	type Item = u32;
+	fn item_query(&self,id: FlowId) -> u32 {
+		return self.get(&id);
+	}
+}
+impl <H>ItemQuery for NitroCuckoo<H> 
+where H:Hasher + Default,
+{
+	type Item = u32;
+	fn item_query(&self,id: FlowId) -> u32 {
+		return self.get(&id);
 	}
 }
 
