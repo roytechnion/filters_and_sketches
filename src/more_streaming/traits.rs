@@ -40,14 +40,14 @@ impl <H>ItemIncrement for CuckooCountingFilter<H>
 where H:Hasher + Default,
 {
 	fn item_increment(&mut self,id: FlowId) {
-		self.add(&id);
+		self.add(&id).unwrap();
 	}
 }
 impl <H>ItemIncrement for NitroCuckoo<H> 
 where H:Hasher + Default,
 {
 	fn item_increment(&mut self,id: FlowId) {
-		self.add(&id);
+		self.add(&id).unwrap();
 	}
 }
 

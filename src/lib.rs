@@ -258,9 +258,10 @@ Q: ItemIncrement + ItemQuery + std::fmt::Debug,
     }
     if config.time_type == TimeType::READTIME {
         start = Instant::now();
-        for id in &processed {
-            counts.item_query(*id);
-        }
+        //for id in &processed {
+        processed.iter().for_each(|id|
+            {counts.item_query(*id);});
+        //}
     }
     if config.verbose {
         println!("COUNTS are {:#?}", counts);

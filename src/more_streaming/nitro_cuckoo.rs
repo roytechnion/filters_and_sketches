@@ -71,7 +71,7 @@ H: Hasher+Default,
 
     pub fn get<T: ?Sized + Hash>(&self, id: &T) -> u32
     {
-        self.counters.get(&id)
+        self.counters.get(&id) * u32::try_from(self.factor).unwrap()
     }
 
     fn calc_skip(&mut self) -> () {
