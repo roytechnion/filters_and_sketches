@@ -82,6 +82,10 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
 
     }
 
+    pub fn capacity(&self) -> usize {
+        return self.capacity;
+    }
+
     fn find_minimum(&self) -> (K,V) {
         let (id,val) = self.counters.iter()
            .min_by_key(|(_,b)| *b).unwrap();

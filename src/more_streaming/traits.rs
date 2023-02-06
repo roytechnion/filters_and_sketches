@@ -1,7 +1,8 @@
 use crate::{FlowId,NitroHash,SpaceSaving,NitroCMS,CuckooCountingFilter,NitroCuckoo};
 use amadeus_streaming::CountMinSketch;
-use dashmap::DashMap;
 use crate::Hasher;
+use std::collections::HashMap;
+use std::mem::size_of;
 
 /// Increment an item's count
 pub trait ItemIncrement {
@@ -27,9 +28,9 @@ impl ItemIncrement for NitroCMS<FlowId,u32> {
 		self.push(&id,&1);
 	}
 }
-impl ItemIncrement for DashMap<FlowId,u32> {
+impl ItemIncrement for HashMap<FlowId,u32> {
 	fn item_increment(&mut self,id: FlowId) {
-		if let Some(mut count) = self.get_mut(&id) {
+		if let Some(count) = self.get_mut(&id) {
 			*count+=1;
 		} else {
 			self.insert(id,1);
@@ -79,7 +80,7 @@ impl ItemQuery for NitroCMS<FlowId,u32> {
 		return self.get(&id)
 	}
 }
-impl ItemQuery for DashMap<FlowId,u32> {
+impl ItemQuery for HashMap<FlowId,u32> {
 	type Item = u32;
 	fn item_query(&self,id: FlowId) -> u32 {
 		return *self.get(&id).unwrap();
@@ -99,6 +100,54 @@ where H:Hasher + Default,
 	type Item = u32;
 	fn item_query(&self,id: FlowId) -> u32 {
 		return self.get(&id);
+	}
+}
+
+pub trait PrintMemoryInfo {
+	fn print_memory_info(&self) -> ();
+}
+impl PrintMemoryInfo for NitroHash<FlowId,u32> {
+	fn print_memory_info(&self) -> () {
+		println!("Total memory: {}", self.capacity() * (size_of::<FlowId>() + size_of::<u32>()));
+		println!("Number of items: {} consuming {} space", self.len(), self.len() * (size_of::<FlowId>() + size_of::<u32>()));
+	}
+}
+impl PrintMemoryInfo for SpaceSaving<FlowId,u32> {
+	fn print_memory_info(&self) -> () {
+		println!("Total memory: {}", self.capacity() * (size_of::<FlowId>() + size_of::<u32>()));
+	}
+}
+impl PrintMemoryInfo for CountMinSketch<FlowId,u32> {
+	fn print_memory_info(&self) -> () {
+		//CountMinSketch::estimate_memory();
+		println!("Total memory: {}", 0_usize); // TODO
+	}
+}
+impl PrintMemoryInfo for NitroCMS<FlowId,u32> {
+	fn print_memory_info(&self) -> () {
+		println!("Total memory: {}", self.estimate_memory_size());
+	}
+}
+impl PrintMemoryInfo for HashMap<FlowId,u32> {
+	fn print_memory_info(&self) -> () {
+		println!("Total memory: {}", self.capacity() * (size_of::<FlowId>() + size_of::<u32>()));
+		println!("Number of items: {} consuming {} space", self.len(), self.len() * (size_of::<FlowId>() + size_of::<u32>()));
+	}
+}
+impl <H>PrintMemoryInfo for CuckooCountingFilter<H> 
+where H:Hasher + Default,
+{
+	fn print_memory_info(&self) -> () {
+		println!("Total memory: {}", self.capacity() * (size_of::<u32>() + size_of::<u8>())); // TODO - replace with fingerprint_size
+		println!("Number of items: {} consuming {} space", self.len(), self.len() * (size_of::<FlowId>() + size_of::<u8>())); // TODO - replace with fingerprint_size	
+	}
+}
+impl <H>PrintMemoryInfo for NitroCuckoo<H> 
+where H:Hasher + Default,
+{
+	fn print_memory_info(&self) -> () {
+		println!("Total memory: {}", self.capacity() * (size_of::<u32>() + size_of::<u8>())); // TODO - replace with fingerprint_size
+		println!("Number of items: {} consuming {} space", self.len(), self.len() * (size_of::<FlowId>() + size_of::<u8>())); // TODO - replace with fingerprint_size
 	}
 }
 

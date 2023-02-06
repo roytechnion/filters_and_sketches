@@ -146,7 +146,7 @@ impl From<&[u8]> for Bucket {
         for (idx, value) in fingerprints.chunks(FINGERPRINT_SIZE).enumerate() {
             buffer[idx].slice_copy(value);
         }
-        let mut values = [0_u32; BUCKET_SIZE];
+        let values = [0_u32; BUCKET_SIZE];
         Self { buffer, values }
     }
 }

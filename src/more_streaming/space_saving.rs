@@ -75,6 +75,10 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
 
     }
 
+    pub fn capacity(&self) -> usize {
+        return self.capacity;
+    }
+
     fn coin_flip(&self, prob: usize) -> bool {
         let mut rng = rand::thread_rng();
         return rng.gen_range(0..prob) == 0;

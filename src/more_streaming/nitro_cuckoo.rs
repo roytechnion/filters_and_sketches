@@ -74,6 +74,14 @@ H: Hasher+Default,
         self.counters.get(&id) * u32::try_from(self.factor).unwrap()
     }
 
+    pub fn capacity(&self) -> usize {
+        self.counters.capacity()
+    }
+
+    pub fn len(&self) -> usize {
+        self.counters.len()
+    }
+
     fn calc_skip(&mut self) -> () {
         self.next_index = self.curr_index + self.geo.sample(&mut rand::thread_rng()) as usize
     }

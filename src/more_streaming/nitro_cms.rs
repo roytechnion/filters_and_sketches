@@ -203,13 +203,9 @@ where
 		.unwrap() * C::try_from(self.factor).unwrap()
 	}
 
-	// pub fn estimate_memory(
-	// 	probability: f64, tolerance: f64,
-	// ) -> Result<usize, &'static str> {
-	// 	let width = Self::optimal_width(tolerance);
-	// 	let k_num = Self::optimal_k_num(probability);
-	// 	Ok(width * mem::size_of::<C>() * k_num)
-	// }
+	pub fn estimate_memory_size(&self) -> usize {
+	 	return self.counters.len() * std::mem::size_of::<C>() * self.k_num;
+	}
 
 	/// Clears the `NitroCMS` data structure, as if it was new.
 	pub fn clear(&mut self) {

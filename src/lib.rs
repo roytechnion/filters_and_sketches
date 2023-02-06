@@ -4,10 +4,9 @@ use std::time::{Instant, Duration};
 use std::error::Error;
 use clap::Parser;
 use std::str::FromStr;
-use dashmap::DashMap;
 use std::net::Ipv4Addr;
 use amadeus_streaming::CountMinSketch;
-use std::collections::hash_map::DefaultHasher;
+use std::collections::{HashMap,hash_map::DefaultHasher};
 use std::hash::{Hasher, Hash};
 //use std::hash::{BuildHasherDefault, Hasher, Hash};
 
@@ -18,18 +17,17 @@ use crate::more_streaming::space_saving::SpaceSaving;
 use crate::more_streaming::nitro_hash::NitroHash;
 use crate::more_streaming::cuckoo::CuckooCountingFilter;
 use crate::more_streaming::nitro_cuckoo::NitroCuckoo;
-use crate::more_streaming::traits::ItemIncrement;
-use crate::more_streaming::traits::ItemQuery;
+use crate::more_streaming::traits::{ItemIncrement,ItemQuery,PrintMemoryInfo};
 
 #[derive(Debug,Clone)]
-pub enum DsType { DASH, CMS, NitroCMS, FPDASH, SpaceSaving, NitroHash, Cuckoo, NitroCuckoo }
+pub enum DsType { HASH, CMS, NitroCMS, FPDASH, SpaceSaving, NitroHash, Cuckoo, NitroCuckoo }
 
 impl FromStr for DsType {
     type Err = String;
 
     fn from_str(s: &str) -> Result<Self, Self::Err> {
         match s {
-            "DASH" => Ok(DsType::DASH),
+            "HASH" => Ok(DsType::HASH),
             "CMS" => Ok(DsType::CMS),
             "NitroCMS" => Ok(DsType::NitroCMS),
             "FPDASH" => Ok(DsType::FPDASH),
@@ -37,7 +35,7 @@ impl FromStr for DsType {
             "NitroHash" => Ok(DsType::NitroHash),
             "Cuckoo" => Ok(DsType::Cuckoo),
             "NitroCuckoo" => Ok(DsType::NitroCuckoo),
-            _ => Err(format!("Unrecognized DsType {s}: try DASH, CMS, NitroCMS, SpaceSaving, FDDASH, NitroHash, Cuckoo or NitroCuckoo"))
+            _ => Err(format!("Unrecognized DsType {s}: try HASH, CMS, NitroCMS, SpaceSaving, FDDASH, NitroHash, Cuckoo or NitroCuckoo"))
         }
     }
 }
@@ -120,115 +118,128 @@ fn id_from_line(line: String) -> Result<FlowId, Box<dyn Error>> {
 }
 
 // TODO - fix fpdash - currently it is not interesting
-fn fpdash_run(config: Config, processed: Vec<FlowId>) -> Duration {
-    let num : usize = 2_usize.pow(config.fp_size.into());
-    let counts = DashMap::with_capacity(num);
-    let mut start = Instant::now();
-    for id in &processed {
-        // id.hash(&mut s);
-        //let id : s.finish();
-        let mut s = DefaultHasher::new();
-        id.hash(&mut s);
-        let id = s.finish();
-        if let Some(mut count) = counts.get_mut(&id) {
-            *count+=1;
-        } else {
-            counts.insert(id,1);
-        }
-        if config.time_type == TimeType::RWTIME {
-            counts.get_mut(&id);
-        }
-    }
-    if config.time_type == TimeType::READTIME {
-        start = Instant::now();
-        for id in &processed {
-            let mut s = DefaultHasher::new();
-            id.hash(&mut s);
-            let id = s.finish();
-            counts.get_mut(&id);
-        }
-    }
-    if config.verbose {
-        println!("COUNTS are {:#?}", counts);
-    }
+fn fpdash_run(_config: Config, _processed: Vec<FlowId>) -> Duration {
+//    let num : usize = 2_usize.pow(config.fp_size.into());
+//    let counts = DashMap::with_capacity(num);
+    let start = Instant::now();
+//    for id in &processed {
+//        // id.hash(&mut s);
+//        //let id : s.finish();
+//        let mut s = DefaultHasher::new();
+//        id.hash(&mut s);
+//        let id = s.finish();
+//        if let Some(mut count) = counts.get_mut(&id) {
+//            *count+=1;
+//        } else {
+//            counts.insert(id,1);
+//        }
+//        if config.time_type == TimeType::RWTIME {
+//            counts.get_mut(&id);
+//        }
+//    }
+//    if config.time_type == TimeType::READTIME {
+//        start = Instant::now();
+//        for id in &processed {
+//            let mut s = DefaultHasher::new();
+//            id.hash(&mut s);
+//            let id = s.finish();
+//            counts.get_mut(&id);
+//        }
+//    }
+//    if config.verbose {
+//        println!("COUNTS are {:#?}", counts);
+//    }
     return start.elapsed();
 }
 
-fn dash_run(config: Config, processed: Vec<FlowId>) -> Duration {
-    let counts = DashMap::new();
+fn hash_run(config: Config, processed: Vec<FlowId>) -> Duration {
+    let counts = HashMap::new();
     return generic_time(config, processed, counts);
 }
 
+fn hash_accuracy(_config: Config, processed: Vec<FlowId>) -> f64 {
+    let mut baseline = HashMap::new();
+    processed.iter().for_each(|id|
+        if let Some(count) = baseline.get_mut(id) {
+            *count+=1_u32;
+        } else {
+            baseline.insert(*id,1_u32);
+        }
+    );
+    println!("Trace length = {}", (&processed).len());
+    baseline.print_memory_info();
+    return 0.0_f64;
+}
 
 fn nitrocms_accuracy(config: Config, processed: Vec<FlowId>) -> f64 {
-    let mut counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, config.sample, ());
+    let counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, config.sample, ());
     return generic_accuracy(config, processed, counts);
 }
 
 fn nitrocms_time(config: Config, processed: Vec<FlowId>) -> Duration {
-    let mut counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, config.sample, ());
+    let counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, config.sample, ());
     return generic_time(config, processed, counts);
 }
 
 fn cms_accuracy(config: Config, processed: Vec<FlowId>) -> f64 {
-    let mut counts: CountMinSketch<FlowId,u32> = amadeus_streaming::CountMinSketch::new(config.confidence, config.error, ());
+    let counts: CountMinSketch<FlowId,u32> = amadeus_streaming::CountMinSketch::new(config.confidence, config.error, ());
     return generic_accuracy(config, processed, counts);
 }
 
 fn cms_time(config: Config, processed: Vec<FlowId>) -> Duration {
-    let mut counts: CountMinSketch<FlowId,u32> = 
+    let counts: CountMinSketch<FlowId,u32> = 
                     amadeus_streaming::CountMinSketch::new(config.confidence, config.error, ());
     return generic_time(config, processed, counts);
 }
 
 fn space_accuracy(config: Config, processed: Vec<FlowId>) -> f64 {
-    let mut counts: SpaceSaving<FlowId,u32> = SpaceSaving::new(config.error, config.rap);
+    let counts: SpaceSaving<FlowId,u32> = SpaceSaving::new(config.error, config.rap);
     return generic_accuracy(config, processed, counts);
 }
 
 fn space_time(config: Config, processed: Vec<FlowId>) -> Duration {
-    let mut counts: SpaceSaving<FlowId,u32> = SpaceSaving::new(config.error, config.rap);
+    let counts: SpaceSaving<FlowId,u32> = SpaceSaving::new(config.error, config.rap);
     return generic_time(config, processed, counts);
 }
 
 fn nitrohash_accuracy(config: Config, processed: Vec<FlowId>) -> f64 {
-    let mut counts: NitroHash<FlowId,u32> = NitroHash::new(config.sample);
+    let counts: NitroHash<FlowId,u32> = NitroHash::new(config.sample);
     return generic_accuracy(config, processed, counts);
 }
 
 fn nitrohash_time(config: Config, processed: Vec<FlowId>) -> Duration {
-    let mut counts: NitroHash<FlowId,u32> = NitroHash::new(config.sample);
+    let counts: NitroHash<FlowId,u32> = NitroHash::new(config.sample);
     return generic_time(config, processed, counts);
 }
 
 fn cuckoo_accuracy(config: Config, processed: Vec<FlowId>) -> f64 {
-    let mut counts= CuckooCountingFilter::<DefaultHasher>::with_capacity(processed.len());
+    let counts= CuckooCountingFilter::<DefaultHasher>::with_capacity(processed.len());
     return generic_accuracy(config, processed, counts);
 }
 
 fn cuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
-    let mut counts= CuckooCountingFilter::<DefaultHasher>::with_capacity(processed.len());
+    let counts= CuckooCountingFilter::<DefaultHasher>::with_capacity(processed.len());
     return generic_time(config, processed, counts);
 }
 
 fn nitrocuckoo_accuracy(config: Config, processed: Vec<FlowId>) -> f64 {
-    let mut counts= NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample);
+    let counts= NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample);
     return generic_accuracy(config, processed, counts);
 }
 
 fn nitrocuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
-    let mut counts= NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample);
+    let counts= NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample);
     return generic_time(config, processed, counts);
 }
 
 fn generic_accuracy<Q: Sized>(config: Config, processed: Vec<FlowId>, mut counts: Q) -> f64 
 where
-Q: ItemIncrement + ItemQuery<Item=u32> + std::fmt::Debug, <Q as ItemQuery>::Item: std::fmt::Display, f64: From<<Q as ItemQuery>::Item>
+Q: ItemIncrement + ItemQuery<Item=u32> + PrintMemoryInfo + std::fmt::Debug, <Q as ItemQuery>::Item: std::fmt::Display, f64: From<<Q as ItemQuery>::Item>
 {
     let mut msre = 0.0;
-    let baseline = DashMap::new();
+    let mut baseline = HashMap::new();
     for id in &processed {
-        if let Some(mut count) = baseline.get_mut(&id) {
+        if let Some(count) = baseline.get_mut(&id) {
             *count+=1;
         } else {
             baseline.insert(id,1);
@@ -242,12 +253,13 @@ Q: ItemIncrement + ItemQuery<Item=u32> + std::fmt::Debug, <Q as ItemQuery>::Item
         }
     }
     println!("Trace length = {}", (&processed).len());
+    counts.print_memory_info();
     return msre.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap();
 }
 
 fn generic_time<Q: Sized>(config: Config, processed: Vec<FlowId>, mut counts: Q) -> Duration
 where
-Q: ItemIncrement + ItemQuery + std::fmt::Debug,
+Q: ItemIncrement + ItemQuery + PrintMemoryInfo + std::fmt::Debug,
 {
     let mut start = Instant::now();
     for id in &processed {
@@ -289,7 +301,7 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     //let now = Instant::now();
     if config.compare {
         let msre  = match config.ds_type {
-            DsType::DASH => 0.0,
+            DsType::HASH => hash_accuracy(config, processed),
             DsType::CMS => cms_accuracy(config, processed),
             DsType::NitroCMS => nitrocms_accuracy(config, processed),
             DsType::FPDASH => 0.0,
@@ -302,7 +314,7 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
         println!("Calculated MSRE is {}", msre);
     } else {
         let elapsed_time  = match config.ds_type {
-            DsType::DASH => dash_run(config, processed),
+            DsType::HASH => hash_run(config, processed),
             DsType::CMS => cms_time(config, processed),
             DsType::NitroCMS => nitrocms_time(config, processed),
             DsType::FPDASH => fpdash_run(config, processed),

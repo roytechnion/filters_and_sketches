@@ -136,6 +136,7 @@ impl StdError for CuckooError {
 #[derive(Debug)]
 pub struct CuckooCountingFilter<H> {
     buckets: Box<[Bucket]>,
+    capacity: usize,
     len: usize,
     _hasher: std::marker::PhantomData<H>,
 }
@@ -166,6 +167,7 @@ where
                 .take(capacity)
                 .collect::<Vec<_>>()
                 .into_boxed_slice(),
+            capacity: capacity,
             len: 0,
             _hasher: PhantomData,
         }
@@ -259,6 +261,11 @@ where
         self.len
     }
 
+    /// Total capacity of the filter.
+    pub fn capacity(&self) -> usize {
+        self.capacity
+    }
+
     /// Exports fingerprints in all buckets, along with the filter's length for storage.
     /// The filter can be recovered by passing the `ExportedCuckooFilter` struct to the
     /// `from` method of `CuckooFilter`.
@@ -333,6 +340,7 @@ pub struct ExportedCuckooCountingFilter {
     #[cfg_attr(feature = "serde_support", serde(with = "serde_bytes"))]
     pub values: Vec<u8>,
     pub length: usize,
+    pub capacity: usize,
 }
 
 impl<H> From<ExportedCuckooCountingFilter> for CuckooCountingFilter<H> {
@@ -356,6 +364,7 @@ impl<H> From<ExportedCuckooCountingFilter> for CuckooCountingFilter<H> {
                 .map(Bucket::from)
                 .collect::<Vec<_>>()
                 .into_boxed_slice(),
+            capacity: exported.capacity,
             len: exported.length,
             _hasher: PhantomData,
         }
@@ -372,6 +381,7 @@ where
         Self {
             values: cuckoo.values(),
             length: cuckoo.len(),
+            capacity: cuckoo.capacity()
         }
     }
 }

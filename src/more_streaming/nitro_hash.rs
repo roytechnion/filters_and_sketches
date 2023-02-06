@@ -63,6 +63,16 @@ V: std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<usize> + TryFrom<u64>
         return V::try_from(0_u8).unwrap();
     }
 
+    pub fn capacity(&self) -> usize
+    {
+        return self.counters.capacity();
+    }
+
+    pub fn len(&self) -> usize
+    {
+        return self.counters.len();
+    }
+
     fn calc_skip(geo: Geometric, current_index: usize) -> usize {
         let v = geo.sample(&mut rand::thread_rng()) as usize;
         return current_index + v
