@@ -203,6 +203,7 @@ where
 		.unwrap() * C::try_from(self.factor).unwrap()
 	}
 
+	/// returns an estimation of the memory used
 	pub fn estimate_memory_size(&self) -> usize {
 	 	return self.counters.len() * std::mem::size_of::<C>() * self.k_num;
 	}

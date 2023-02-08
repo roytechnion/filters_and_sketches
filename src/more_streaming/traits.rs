@@ -4,7 +4,7 @@ use crate::Hasher;
 use std::collections::HashMap;
 use std::mem::size_of;
 
-/// Increment an item's count
+/// Increment an item's count (by 1)
 pub trait ItemIncrement {
 	fn item_increment(&mut self,id: FlowId);
 }
@@ -52,6 +52,7 @@ where H:Hasher + Default,
 	}
 }
 
+/// Query for an item's frequency
 pub trait ItemQuery {
 	type Item;
 	fn item_query(&self,id: FlowId) -> Self::Item;
@@ -103,6 +104,7 @@ where H:Hasher + Default,
 	}
 }
 
+/// Print memory usage info
 pub trait PrintMemoryInfo {
 	fn print_memory_info(&self) -> ();
 }

@@ -27,20 +27,8 @@ H: Hasher+Default,
     {
             Self::with_capacity(DEFAULT_CAPACITY,sample_prob)
     }  
-//        let counters = CuckooCountingFilter::<K>::new();
-//        let geo = Geometric::new(sample_prob).unwrap();
-//        let factor = f64_to_usize((1.0/sample_prob).round());
-//        let curr_index = 0;
-//        let next_index = 0;
-//        Self {
-//            counters,
-//            geo,
-//            factor,
-//            curr_index,
-//            next_index,
-//        }
-//    }
 
+    /// starts a new filter with a given capacity
     pub fn with_capacity(cap: usize, sample_prob: f64) -> Self 
     {
         let counters = CuckooCountingFilter::<H>::with_capacity(cap);
@@ -69,19 +57,23 @@ H: Hasher+Default,
         }
     }
 
+    /// return an estimate of an item's count
     pub fn get<T: ?Sized + Hash>(&self, id: &T) -> u32
     {
         self.counters.get(&id) * u32::try_from(self.factor).unwrap()
     }
 
+    /// return the capacity of the filter
     pub fn capacity(&self) -> usize {
         self.counters.capacity()
     }
 
+    /// retun the actual number of unique items (fingerprints to be precise) in the filter
     pub fn len(&self) -> usize {
         self.counters.len()
     }
 
+    // calculate how many updates should be skipped before the next one to be fully processed
     fn calc_skip(&mut self) -> () {
         self.next_index = self.curr_index + self.geo.sample(&mut rand::thread_rng()) as usize
     }

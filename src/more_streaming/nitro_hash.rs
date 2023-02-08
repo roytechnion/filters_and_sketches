@@ -54,6 +54,7 @@ V: std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<usize> + TryFrom<u64>
         }
     }
 
+    /// return an item's estimated count
     pub fn get(&self, id: K) -> V
     where <V as TryFrom<u8>>::Error: Debug
     {
@@ -63,16 +64,19 @@ V: std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<usize> + TryFrom<u64>
         return V::try_from(0_u8).unwrap();
     }
 
+    /// return the hash table's capacity
     pub fn capacity(&self) -> usize
     {
         return self.counters.capacity();
     }
 
+    /// return the actual number of unique items in the hash table
     pub fn len(&self) -> usize
     {
         return self.counters.len();
     }
 
+    // calculate how many inserts should be skipped until the next update that should be processed
     fn calc_skip(geo: Geometric, current_index: usize) -> usize {
         let v = geo.sample(&mut rand::thread_rng()) as usize;
         return current_index + v

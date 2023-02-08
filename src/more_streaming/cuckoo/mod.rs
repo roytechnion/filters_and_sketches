@@ -183,6 +183,7 @@ where
             .is_some()
     }
 
+    /// Return an estimate of an item's count
     pub fn get<T: ?Sized + Hash>(&self, data: &T) -> u32 {
         let FaI { fp, i1, i2 } = get_fai::<T, H>(data);
         let len = self.buckets.len();
