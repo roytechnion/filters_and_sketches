@@ -16,12 +16,16 @@ pub struct NitroHash<K: Hash + std::cmp::Eq, V> {
     next_index: usize,
 }
 
+// CR: MANY code duplications between this module and 'nitro_cockoo.rs'. Write common functions.
+// CR: comments in 'nitro_cockoo.rs' relevant here as well
+
 impl <K, V>NitroHash<K,V> 
 where
 K: Clone + Hash + std::cmp::Eq,
+// CR: Line exceeding 100 characters
 V: std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<usize> + TryFrom<u64> + TryFrom<u32> + TryFrom<u16> + TryFrom<u8> + Copy + super::traits::VtoUsize + std::fmt::Debug +  std::ops::Mul<Output = V>
 {
-    pub fn new(sample_prob: f64) -> Self 
+    pub fn new(sample_prob: f64) -> Self // CR: use clear variable names instead of 'sample_prob'
     where <V as TryFrom<usize>>::Error: Debug
     {
         let counters = HashMap::new();

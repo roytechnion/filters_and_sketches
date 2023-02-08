@@ -39,6 +39,7 @@ pub struct SpaceSaving<K, V> {
 impl <K, V>SpaceSaving<K,V> 
 where
 K: Clone + Hash + std::cmp::Eq,
+// CR: Line exceeding 100 characters
 V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> + Copy + super::traits::VtoUsize + std::fmt::Debug + increment::Incrementable
 {
     pub fn new(error: f64, rap: bool) -> Self {
@@ -48,8 +49,8 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
         Self {
             counters,
             capacity,
-            num,
-            rap
+            num, // CR: use clear variable names instead of 'num'
+            rap // CR: use clear variable names instead of 'rap'
         }
     }
 
@@ -63,7 +64,7 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
                 self.counters.insert(id, V::try_from(1_u8).unwrap());
                 self.num += 1;
             } else {
-                let (minkey,minval) = self.find_minimum();
+                let (minkey,minval) = self.find_minimum(); // CR: condiser using clear variable names instead of 'minkey','minkey','added'
                 let added = increment!(minval).unwrap();
                 if !self.rap || self.coin_flip(added.v_to_usize()) {
                     self.counters.remove(&minkey);
@@ -92,7 +93,7 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
         return (id.clone(),*val)
     }
 
-    fn coin_flip(&self, prob: usize) -> bool {
+    fn coin_flip(&self, prob: usize) -> bool { // CR: use clear variable names instead of 'prob'
         let mut rng = rand::thread_rng();
         return rng.gen_range(0..prob) == 0;
     }

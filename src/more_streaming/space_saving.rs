@@ -29,9 +29,13 @@ pub struct SpaceSaving<K: Hash + std::cmp::Eq, V: std::cmp::Ord> {
     rap: bool,
 }
 
+// CR: MANY code duplications between this module and 'nitro_cockoo.rs'. Write common functions.
+// CR: comments in 'nitro_cockoo.rs' relevant here as well
+
 impl <K, V>SpaceSaving<K,V> 
 where
 K: Clone + Hash + std::cmp::Eq,
+// CR: Line exceeding 100 characters
 V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> + Copy + super::traits::VtoUsize + std::fmt::Debug + increment::Incrementable
 {
     pub fn new(error: f64, rap: bool) -> Self {
@@ -87,6 +91,7 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
 
 #[cfg(test)]
 mod tests {
+    // CR: Replace '3_000','0.01','30000u32','400' by a declared constant, with indecative name
     #[test]
     fn test_increment() {
 		let mut ss:super::SpaceSaving<&str,u32> = super::SpaceSaving::new(0.01,false);
