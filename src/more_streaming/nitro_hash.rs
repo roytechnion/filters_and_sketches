@@ -10,10 +10,9 @@ use rand_distr::{Geometric, Distribution};
 #[derive(Debug)]
 pub struct NitroHash<K: Hash + std::cmp::Eq, V> {
     counters: HashMap<K, V>,
-    geo: Geometric,
+    geometric_distribution_provider: Geometric,
     factor: V,
-    curr_index: usize,
-    next_index: usize,
+    item_skip: usize,
 }
 
 impl <K, V>NitroHash<K,V> 
@@ -25,16 +24,14 @@ V: std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<usize> + TryFrom<u64>
     where <V as TryFrom<usize>>::Error: Debug
     {
         let counters = HashMap::new();
-        let geo = Geometric::new(sample_prob).unwrap();
+        let geometric_distribution_provider = Geometric::new(sample_prob).unwrap();
         let factor = V::try_from(f64_to_usize((1.0/sample_prob).round())).unwrap();
-        let curr_index = 0;
-        let next_index = 0;
+        let item_skip = 0;
         Self {
             counters,
-            geo,
+            geometric_distribution_provider,
             factor,
-            curr_index,
-            next_index,
+            item_skip,
         }
     }
 
@@ -42,15 +39,16 @@ V: std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<usize> + TryFrom<u64>
     pub fn insert(&mut self, id: K) 
     where <V as TryFrom<u8>>::Error: Debug
 	{
-        if self.next_index - self.curr_index > 0 {
-            self.curr_index += 1;
+        if self.item_skip > 0 {
+            self.item_skip -= 1;
         } else { 
             if let Some(counter) = self.counters.get_mut(&id) {
                 *counter += V::try_from(1_u8).unwrap();
             } else {
                 self.counters.insert(id,V::try_from(1_u8).unwrap());
             }
-            self.next_index = Self::calc_skip(self.geo,self.curr_index);
+            self.item_skip = self.geometric_distribution_provider.sample(&mut rand::thread_rng()) as usize;
+
         }
     }
 
@@ -75,22 +73,20 @@ V: std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<usize> + TryFrom<u64>
     {
         return self.counters.len();
     }
-
-    // calculate how many inserts should be skipped until the next update that should be processed
-    fn calc_skip(geo: Geometric, current_index: usize) -> usize {
-        let v = geo.sample(&mut rand::thread_rng()) as usize;
-        return current_index + v
-    }
 }
 
 #[cfg(test)]
 mod tests {
+    const TEST_PROBABILITY: f64 = 0.01;
+    const TEST_N_ITEMS: usize = 30_000;
+    const TEST_ERROR_TOLERANCE: usize = 3_000;
+
     #[test]
     fn test_increment() {
-		let mut nh:super::NitroHash<&str,u32> = super::NitroHash::new(0.01);
-		for _ in 0..30_000 {
-			let _ = nh.insert("key");
+		let mut nitrohash:super::NitroHash<&str,u32> = super::NitroHash::new(TEST_PROBABILITY);
+		for _ in 0..TEST_N_ITEMS {
+			let _ = nitrohash.insert("key");
 		}
-		assert!(30_000u32.abs_diff(nh.get("key")) < 3_000, "DIFF nh = {}", nh.get("key"));
+		assert!(TEST_N_ITEMS.abs_diff(usize::try_from(nitrohash.get("key")).unwrap()) < TEST_ERROR_TOLERANCE, "DIFF nitrohash = {}", nitrohash.get("key"));
 	}
 }
