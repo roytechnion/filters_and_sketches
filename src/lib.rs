@@ -319,7 +319,7 @@ fn preprocess_contents(contents: String) -> Vec<FlowId> {
 /// Perform measurements according to the specified parameters.
 /// Most importanly, timing measurements OR accuracy comparisson and memory usage
 pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
-    println!("{:#?} {:#?} for FILE: {}", config.ds_type, config.time_type, config.file_path);
+    println!("{:#?}({}) {:#?} for FILE: {}", config.ds_type, config.rap, config.time_type, config.file_path);
     let contents = fs::read_to_string(config.file_path.clone())?;
     //if config.verbose {
         println!("PREPROCESSING DONE");

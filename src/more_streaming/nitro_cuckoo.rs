@@ -13,46 +13,43 @@ use crate::{Hash,Hasher};
 #[derive(Debug)]
 pub struct NitroCuckoo<H> {
     counters: CuckooCountingFilter<H>,
-    geo: Geometric,
+    geometric_distribution_provider: Geometric,
     factor: usize,
-    curr_index: usize,
-    next_index: usize,
+    item_skip : usize,
 }
 
 impl <H>NitroCuckoo<H> 
 where
 H: Hasher+Default,
 {
-    pub fn new(sample_prob: f64) -> Self 
+    pub fn new(sample_probability: f64) -> Self 
     {
-            Self::with_capacity(DEFAULT_CAPACITY,sample_prob)
+            Self::with_capacity(DEFAULT_CAPACITY,sample_probability)
     }  
 
     /// starts a new filter with a given capacity
-    pub fn with_capacity(cap: usize, sample_prob: f64) -> Self 
+    pub fn with_capacity(capacity: usize, sample_probability: f64) -> Self 
     {
-        let counters = CuckooCountingFilter::<H>::with_capacity(cap);
-        let geo = Geometric::new(sample_prob).unwrap();
-        let factor = f64_to_usize((1.0/sample_prob).round());
-        let curr_index = 0;
-        let next_index = 0;
+        let counters = CuckooCountingFilter::<H>::with_capacity(capacity);
+        let geometric_distribution_provider = Geometric::new(sample_probability).unwrap();
+        let factor = f64_to_usize((1.0/sample_probability).round());
+        let item_skip = 0;
         Self {
             counters,
-            geo,
+            geometric_distribution_provider,
             factor,
-            curr_index,
-            next_index,
+            item_skip,
         }
     }
 
-    /// "Visit" an element - sampled version - only update sampled cpunters
+    /// "Visit" an element - sampled version - only update sampled counters
     pub fn add<T: ?Sized + Hash>(&mut self, id: &T) -> Result<(), CuckooError>
 	{
-        if self.next_index - self.curr_index > 0 {
-            self.curr_index += 1;
+        if self.item_skip > 0 {
+            self.item_skip -= 1;
             Ok(())
         } else {
-            self.calc_skip();
+            self.item_skip = self.geometric_distribution_provider.sample(&mut rand::thread_rng()) as usize;
             self.counters.add(&id)
         }
     }
@@ -73,22 +70,21 @@ H: Hasher+Default,
         self.counters.len()
     }
 
-    // calculate how many updates should be skipped before the next one to be fully processed
-    fn calc_skip(&mut self) -> () {
-        self.next_index = self.curr_index + self.geo.sample(&mut rand::thread_rng()) as usize
-    }
 }
 
 #[cfg(test)]
 mod tests {
     use std::collections::hash_map::DefaultHasher;
+    const TEST_PROBABILITY: f64 = 0.01;
+    const TEST_N_ITEMS: usize = 30_000;
+    const TEST_ERROR_TOLERANCE: usize = 3_000;
 
     #[test]
     fn test_increment() {
-		let mut nh:super::NitroCuckoo<DefaultHasher> = super::NitroCuckoo::new(0.01);
-		for _ in 0..30_000 {
-			let _ = nh.add("key");
+		let mut nitro_filter:super::NitroCuckoo<DefaultHasher> = super::NitroCuckoo::new(TEST_PROBABILITY);
+		for _ in 1..=TEST_N_ITEMS {
+			let _ = nitro_filter.add("key");
 		}
-		assert!(30_000u32.abs_diff(nh.get("key")) < 3_000, "DIFF nh = {}", nh.get("key"));
+		assert!(TEST_N_ITEMS.abs_diff(usize::try_from(nitro_filter.get("key")).unwrap()) < TEST_ERROR_TOLERANCE, "DIFF nitro_filter = {}", nitro_filter.get("key"));
 	}
 }
