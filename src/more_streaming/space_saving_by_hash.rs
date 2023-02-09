@@ -33,7 +33,7 @@ pub struct SpaceSaving<K, V> {
     counters: HashMap<K, V>,
     capacity: usize,
     num: usize,
-    rap: bool,
+    rap: bool, // indicates whether we are using the RAP optimizarion
 }
 
 impl <K, V>SpaceSaving<K,V> 
@@ -53,6 +53,7 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
         }
     }
 
+    /// add an item to the structure
     pub fn insert(&mut self, id: K) 
     where <V as TryFrom<u8>>::Error: Debug
     {
@@ -73,6 +74,7 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
         }
     }
 
+    /// returns an estimaate of the item's count
     pub fn get(&self, id: K) -> V {
         if let Some(val) = self.counters.get(&id) {
             return *val;
@@ -82,18 +84,21 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
 
     }
 
+    /// return the number of items that can be stored in space saving
     pub fn capacity(&self) -> usize {
         return self.capacity;
     }
 
+    // scan to find the minimal counter and respective item id
     fn find_minimum(&self) -> (K,V) {
         let (id,val) = self.counters.iter()
            .min_by_key(|(_,b)| *b).unwrap();
         return (id.clone(),*val)
     }
 
-    fn coin_flip(&self, prob: usize) -> bool {
+    // flip the coin with probability 1/probability
+    fn coin_flip(&self, probability: usize) -> bool {
         let mut rng = rand::thread_rng();
-        return rng.gen_range(0..prob) == 0;
+        return rng.gen_range(0..probability) == 0;
     }
 }
