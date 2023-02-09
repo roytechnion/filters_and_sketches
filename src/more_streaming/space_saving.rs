@@ -42,7 +42,7 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
             counters,
             capacity,
             num,
-            rap
+            rap // are we implementaing the RAP optimization
         }
     }
 
@@ -82,9 +82,9 @@ V: std::cmp::Ord + std::ops::Add<Output=V> + std::ops::AddAssign + TryFrom<u8> +
         return self.capacity;
     }
 
-    fn coin_flip(&self, prob: usize) -> bool {
+    fn coin_flip(&self, probability: usize) -> bool {
         let mut rng = rand::thread_rng();
-        return rng.gen_range(0..prob) == 0;
+        return rng.gen_range(0..probability) == 0;
     }
 }
 
