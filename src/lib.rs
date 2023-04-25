@@ -166,7 +166,7 @@ fn hash_accuracy(_config: Config, processed: Vec<FlowId>) -> () {
             baseline.insert(*id,1_u32);
         }
     );
-    println!("Trace length = {}", (&processed).len());
+    println!("LENGTH {}", (&processed).len());
     baseline.print_memory_info();
 }
 
@@ -254,10 +254,10 @@ Q: ItemIncrement + ItemQuery<Item=u32> + PrintMemoryInfo + std::fmt::Debug, <Q a
             avgerr_on_arrival += item_estimate - f64::from(*count);
         }
     }
-    println!("Trace length = {}", (&processed).len());
+    println!("LENGTH {}", (&processed).len());
     counts.print_memory_info();
-    println!("Calculated On-Arrival MSRE is {}", msre_on_arrival.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
-    println!("Calculated On-Arrival AVGERR is {}", avgerr_on_arrival / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
+    println!("On-Arrival MSRE {}", msre_on_arrival.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
+    println!("On-Arrival AVGERR {}", avgerr_on_arrival / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
     let mut msre_flow = 0.0;
     let mut avgerr_flow = 0.0;
     for (id,val) in baseline.iter() {
@@ -265,8 +265,8 @@ Q: ItemIncrement + ItemQuery<Item=u32> + PrintMemoryInfo + std::fmt::Debug, <Q a
         msre_flow += (item_estimate - f64::from(*val)).powi(2);
         avgerr_flow += item_estimate - f64::from(*val);       
     }
-    println!("Calculated Flow MSRE is {}", msre_flow.sqrt()/f64::try_from(i32::try_from((baseline).len()).unwrap()).unwrap());
-    println!("Calculated Flow AVGERR is {}", avgerr_flow / f64::try_from(i32::try_from((baseline).len()).unwrap()).unwrap());
+    println!("Flow MSRE {}", msre_flow.sqrt()/f64::try_from(i32::try_from((baseline).len()).unwrap()).unwrap());
+    println!("Flow AVGERR {}", avgerr_flow / f64::try_from(i32::try_from((baseline).len()).unwrap()).unwrap());
     let mut msre_pmw = 0.0;
     let mut avgerr_pmw = 0.0;
     for id in &processed {
@@ -277,8 +277,8 @@ Q: ItemIncrement + ItemQuery<Item=u32> + PrintMemoryInfo + std::fmt::Debug, <Q a
             avgerr_pmw += item_estimate - item_real;
         }
     }  
-    println!("Calculated PMW MSRE is {}", msre_pmw.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
-    println!("Calculated PMW AVGERR is {}", avgerr_pmw / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap()); 
+    println!("PMW MSRE is {}", msre_pmw.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
+    println!("PMW AVGERR is {}", avgerr_pmw / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap()); 
     //return msre.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap();
 }
 
@@ -319,11 +319,14 @@ fn preprocess_contents(contents: String) -> Vec<FlowId> {
 /// Perform measurements according to the specified parameters.
 /// Most importanly, timing measurements OR accuracy comparisson and memory usage
 pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
-    println!("{:#?}({}) {:#?} for FILE: {}", config.ds_type, config.rap, config.time_type, config.file_path);
+    //println!("{:#?}({}) {:#?} for FILE: {}", config.ds_type, config.rap, config.time_type, config.file_path);
+    println!("{TRACE {}", config.file_path)
+    println!("{DSTYPE {:#?}}" config.ds_type); // TODO handle RAP
+    println!("{TEST {:#?}}" if config.compare "COMPARE" else config.time_type);
     let contents = fs::read_to_string(config.file_path.clone())?;
-    //if config.verbose {
+    if config.verbose {
         println!("PREPROCESSING DONE");
-    //}
+    }
     let processed = preprocess_contents(contents);
     //let now = Instant::now();
     if config.compare {
@@ -351,8 +354,9 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
             DsType::NitroCuckoo => nitrocuckoo_time(config, processed),
             //_ => (),
         };
-        println!("Running time in microsecs = {}", elapsed_time.as_micros());
+        println!("TIMEms = {}", elapsed_time.as_micros());
     }
+    println!("{END}");
     Ok(())
 }
 
