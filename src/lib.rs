@@ -19,7 +19,9 @@ use crate::more_streaming::cuckoo::CuckooCountingFilter;
 use crate::more_streaming::nitro_cuckoo::NitroCuckoo;
 use crate::more_streaming::traits::{ItemIncrement,ItemQuery,PrintMemoryInfo};
 
+#[cfg(feature = "stats")]
 use std::alloc;
+#[cfg(feature = "stats")]
 use cap::Cap;
 
 #[cfg(feature = "stats")]
@@ -326,11 +328,6 @@ fn preprocess_contents(contents: String) -> Vec<FlowId> {
 /// Perform measurements according to the specified parameters.
 /// Most importanly, timing measurements OR accuracy comparisson and memory usage
 pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
-    #[cfg(feature = "stats")]
-    {
-        println!("{}", ALLOCATOR.total_allocated());
-        println!("{}", ALLOCATOR.max_allocated());
-    }
     //println!("{:#?}({}) {:#?} for FILE: {}", config.ds_type, config.rap, config.time_type, config.file_path);
     println!("TRACE {}", config.file_path);
     if config.rap {
@@ -348,6 +345,21 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
         println!("PREPROCESSING DONE");
     }
     let processed = preprocess_contents(contents);
+    #[cfg(feature = "stats")]
+    let mem_allocated:usize;
+    #[cfg(feature = "stats")]
+    let total_allocated:usize;
+    #[cfg(feature = "stats")]
+    let max_allocated:usize;
+    #[cfg(feature = "stats")]
+    {
+        mem_allocated = ALLOCATOR.allocated();
+        println!("{}", mem_allocated);
+        total_allocated = ALLOCATOR.total_allocated();
+        println!("{}", total_allocated);
+        max_allocated = ALLOCATOR.max_allocated();
+        println!("{}", max_allocated);
+    }
     if config.compare {
         match config.ds_type {
             DsType::HASH => hash_accuracy(config, processed),
@@ -373,6 +385,13 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
             //_ => (),
         };
         println!("TIMEms = {}", elapsed_time.as_micros());
+    }
+    #[cfg(feature = "stats")]
+    {
+        println!("{}", ALLOCATOR.allocated());
+        println!("{}", ALLOCATOR.total_allocated());
+        println!("{}", ALLOCATOR.max_allocated());
+        println!("{}", ALLOCATOR.max_allocated() - mem_allocated);
     }
     println!("END");
     Ok(())
