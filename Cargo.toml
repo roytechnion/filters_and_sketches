@@ -20,5 +20,5 @@ byteorder = "1"
 cap = "0.1.2"
 
 [features]
-default = ["stats"]
+#default = ["stats"]
 stats = ["cap/stats"]

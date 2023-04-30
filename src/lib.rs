@@ -107,7 +107,7 @@ pub struct FlowId {
     dstip : Ipv4Addr,
 }
 
-fn id_from_line(line: String) -> Result<FlowId, Box<dyn Error>> {
+fn id_from_line(line: &str) -> Result<FlowId, Box<dyn Error>> {
     let mut parts = line.split_whitespace();
     let srcip: Ipv4Addr = Ipv4Addr::new(
         parts.next().unwrap().parse().unwrap_or_else(|_| 0),
@@ -316,7 +316,7 @@ Q: ItemIncrement + ItemQuery + PrintMemoryInfo + std::fmt::Debug,
 fn preprocess_contents(contents: String) -> Vec<FlowId> {
     let mut result = Vec::new();
     for line in contents.lines() {
-        if let Ok(id) = id_from_line(line.to_string()) {
+        if let Ok(id) = id_from_line(line) {
             result.push(id);
         }
     }
