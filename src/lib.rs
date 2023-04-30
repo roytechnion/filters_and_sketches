@@ -19,6 +19,13 @@ use crate::more_streaming::cuckoo::CuckooCountingFilter;
 use crate::more_streaming::nitro_cuckoo::NitroCuckoo;
 use crate::more_streaming::traits::{ItemIncrement,ItemQuery,PrintMemoryInfo};
 
+use std::alloc;
+use cap::Cap;
+
+#[cfg(feature = "stats")]
+#[global_allocator]
+static ALLOCATOR: Cap<alloc::System> = Cap::new(alloc::System, usize::max_value());
+
 #[derive(Debug,Clone)]
 pub enum DsType { HASH, CMS, NitroCMS, FPDASH, SpaceSaving, NitroHash, Cuckoo, NitroCuckoo }
 
@@ -319,6 +326,11 @@ fn preprocess_contents(contents: String) -> Vec<FlowId> {
 /// Perform measurements according to the specified parameters.
 /// Most importanly, timing measurements OR accuracy comparisson and memory usage
 pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
+    #[cfg(feature = "stats")]
+    {
+        println!("{}", ALLOCATOR.total_allocated());
+        println!("{}", ALLOCATOR.max_allocated());
+    }
     //println!("{:#?}({}) {:#?} for FILE: {}", config.ds_type, config.rap, config.time_type, config.file_path);
     println!("TRACE {}", config.file_path);
     if config.rap {
@@ -336,7 +348,6 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
         println!("PREPROCESSING DONE");
     }
     let processed = preprocess_contents(contents);
-    //let now = Instant::now();
     if config.compare {
         match config.ds_type {
             DsType::HASH => hash_accuracy(config, processed),
@@ -349,7 +360,6 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
             DsType::NitroCuckoo => nitrocuckoo_accuracy(config, processed),
             //_ => (),
         };
-        //println!("Calculated MSRE is {}", msre);
     } else {
         let elapsed_time  = match config.ds_type {
             DsType::HASH => hash_run(config, processed),
