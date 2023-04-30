@@ -320,9 +320,17 @@ fn preprocess_contents(contents: String) -> Vec<FlowId> {
 /// Most importanly, timing measurements OR accuracy comparisson and memory usage
 pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     //println!("{:#?}({}) {:#?} for FILE: {}", config.ds_type, config.rap, config.time_type, config.file_path);
-    println!("{TRACE {}", config.file_path)
-    println!("{DSTYPE {:#?}}" config.ds_type); // TODO handle RAP
-    println!("{TEST {:#?}}" if config.compare "COMPARE" else config.time_type);
+    println!("TRACE {}", config.file_path);
+    if config.rap {
+        println!("DSTYPE {:#?}-RAP", config.ds_type);
+    } else {
+        println!("DSTYPE {:#?}", config.ds_type);
+    }
+    if config.compare {
+        println!("TEST COMPARE")
+    } else {
+        println!("TEST {:#?}", config.time_type);
+    }
     let contents = fs::read_to_string(config.file_path.clone())?;
     if config.verbose {
         println!("PREPROCESSING DONE");
@@ -356,7 +364,7 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
         };
         println!("TIMEms = {}", elapsed_time.as_micros());
     }
-    println!("{END}");
+    println!("END");
     Ok(())
 }
 
