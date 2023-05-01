@@ -288,7 +288,6 @@ Q: ItemIncrement + ItemQuery<Item=u32> + PrintMemoryInfo + std::fmt::Debug, <Q a
     }  
     println!("PMW MSRE is {}", msre_pmw.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
     println!("PMW AVGERR is {}", avgerr_pmw / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap()); 
-    //return msre.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap();
 }
 
 fn generic_time<Q: Sized>(config: Config, processed: Vec<FlowId>, mut counts: Q) -> Duration
@@ -330,15 +329,15 @@ fn preprocess_contents(contents: String) -> Vec<FlowId> {
 pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     //println!("{:#?}({}) {:#?} for FILE: {}", config.ds_type, config.rap, config.time_type, config.file_path);
     println!("TRACE {}", config.file_path);
-    if config.rap {
-        println!("DSTYPE {:#?}-RAP", config.ds_type);
-    } else {
-        println!("DSTYPE {:#?}", config.ds_type);
-    }
     if config.compare {
         println!("TEST COMPARE")
     } else {
         println!("TEST {:#?}", config.time_type);
+    }
+    if config.rap {
+        println!("DSTYPE {:#?}-RAP", config.ds_type);
+    } else {
+        println!("DSTYPE {:#?}", config.ds_type);
     }
     let contents = fs::read_to_string(config.file_path.clone())?;
     if config.verbose {
