@@ -8,6 +8,7 @@ use std::net::Ipv4Addr;
 use amadeus_streaming::CountMinSketch;
 use std::collections::{HashMap,hash_map::DefaultHasher};
 use std::hash::{Hasher, Hash};
+use num_traits::abs;
 //use std::hash::{BuildHasherDefault, Hasher, Hash};
 
 pub mod more_streaming;
@@ -246,6 +247,7 @@ Q: ItemIncrement + ItemQuery<Item=u32> + PrintMemoryInfo + std::fmt::Debug, <Q a
 {
     let mut msre_on_arrival = 0.0;
     let mut avgerr_on_arrival = 0.0;
+    let mut avgrelerr_on_arrival = 0.0;
     let mut baseline = HashMap::new();
     for id in &processed {
         if let Some(count) = baseline.get_mut(&id) {
@@ -260,34 +262,43 @@ Q: ItemIncrement + ItemQuery<Item=u32> + PrintMemoryInfo + std::fmt::Debug, <Q a
             }
             let item_estimate = f64::from(counts.item_query(*id));
             msre_on_arrival += (item_estimate - f64::from(*count)).powi(2);
-            avgerr_on_arrival += item_estimate - f64::from(*count);
+            avgerr_on_arrival += abs(item_estimate - f64::from(*count));
+            avgrelerr_on_arrival += abs((item_estimate - f64::from(*count))/f64::from(*count));
         }
     }
     println!("LENGTH {}", (&processed).len());
     counts.print_memory_info();
     println!("On-Arrival MSRE {}", msre_on_arrival.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
     println!("On-Arrival AVGERR {}", avgerr_on_arrival / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
+    println!("On-Arrival AVGRELERR {}", avgrelerr_on_arrival / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
     let mut msre_flow = 0.0;
     let mut avgerr_flow = 0.0;
+    let mut avgrelerr_flow = 0.0;
     for (id,val) in baseline.iter() {
         let item_estimate = f64::from(counts.item_query(**id));
         msre_flow += (item_estimate - f64::from(*val)).powi(2);
-        avgerr_flow += item_estimate - f64::from(*val);       
+        avgerr_flow += abs(item_estimate - f64::from(*val));
+        avgrelerr_flow += abs((item_estimate - f64::from(*val))/f64::from(*val));
+               
     }
     println!("Flow MSRE {}", msre_flow.sqrt()/f64::try_from(i32::try_from((baseline).len()).unwrap()).unwrap());
     println!("Flow AVGERR {}", avgerr_flow / f64::try_from(i32::try_from((baseline).len()).unwrap()).unwrap());
+    println!("Flow AVGRELERR {}", avgrelerr_flow / f64::try_from(i32::try_from((baseline).len()).unwrap()).unwrap());
     let mut msre_pmw = 0.0;
     let mut avgerr_pmw = 0.0;
+    let mut avgrelerr_pmw = 0.0;
     for id in &processed {
         if let Some(count) = baseline.get(&id) {
             let item_real = f64::from(*count);
             let item_estimate = f64::from(counts.item_query(*id));
             msre_pmw += (item_estimate - item_real).powi(2);
-            avgerr_pmw += item_estimate - item_real;
+            avgerr_pmw += abs(item_estimate - item_real);
+            avgrelerr_pmw += abs((item_estimate - item_real)/item_real);
         }
     }  
     println!("PMW MSRE is {}", msre_pmw.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
     println!("PMW AVGERR is {}", avgerr_pmw / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap()); 
+    println!("PMW AVGRELERR is {}", avgrelerr_pmw / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap()); 
 }
 
 fn generic_time<Q: Sized>(config: Config, processed: Vec<FlowId>, mut counts: Q) -> Duration
