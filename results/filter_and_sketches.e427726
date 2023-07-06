@@ -1,0 +1,16 @@
+    Finished release [optimized] target(s) in 0.27s
+     Running `target/release/filters_and_sketches --file-path /home/roy/traces/dataCounters/Chicago15.small.txt --ds-type HASH --compare`
+    Finished release [optimized] target(s) in 0.69s
+     Running `target/release/filters_and_sketches --file-path /home/roy/traces/dataCounters/Chicago15.small.txt --ds-type CMS --compare`
+    Finished release [optimized] target(s) in 0.55s
+     Running `target/release/filters_and_sketches --file-path /home/roy/traces/dataCounters/Chicago15.small.txt --ds-type NitroCMS --compare`
+    Finished release [optimized] target(s) in 0.59s
+     Running `target/release/filters_and_sketches --file-path /home/roy/traces/dataCounters/Chicago15.small.txt --ds-type SpaceSaving --compare`
+    Finished release [optimized] target(s) in 0.25s
+     Running `target/release/filters_and_sketches --file-path /home/roy/traces/dataCounters/Chicago15.small.txt --ds-type SpaceSaving -r --compare`
+    Finished release [optimized] target(s) in 0.36s
+     Running `target/release/filters_and_sketches --file-path /home/roy/traces/dataCounters/Chicago15.small.txt --ds-type NitroHash --compare`
+    Finished release [optimized] target(s) in 0.59s
+     Running `target/release/filters_and_sketches --file-path /home/roy/traces/dataCounters/Chicago15.small.txt --ds-type Cuckoo --compare`
+    Finished release [optimized] target(s) in 0.70s
+     Running `target/release/filters_and_sketches --file-path /home/roy/traces/dataCounters/Chicago15.small.txt --ds-type NitroCuckoo --compare`

@@ -113,16 +113,16 @@ pub struct FlowId {
 fn id_from_line(line: &str) -> Result<FlowId, Box<dyn Error>> {
     let mut parts = line.split_whitespace();
     let srcip: Ipv4Addr = Ipv4Addr::new(
-        parts.next().unwrap().parse().unwrap_or_else(|_| 0),
-        parts.next().unwrap().parse().unwrap_or_else(|_| 0),
-        parts.next().unwrap().parse().unwrap_or_else(|_| 0),
-        parts.next().unwrap().parse().unwrap_or_else(|_| 0)
+        parts.next().unwrap_or_else(|| "0").parse().unwrap_or_else(|_| 0),
+        parts.next().unwrap_or_else(|| "0").parse().unwrap_or_else(|_| 0),
+        parts.next().unwrap_or_else(|| "0").parse().unwrap_or_else(|_| 0),
+        parts.next().unwrap_or_else(|| "0").parse().unwrap_or_else(|_| 0)
     );
     let dstip: Ipv4Addr = Ipv4Addr::new(
-        parts.next().unwrap().parse().unwrap_or_else(|_| 0),
-        parts.next().unwrap().parse().unwrap_or_else(|_| 0),
-        parts.next().unwrap().parse().unwrap_or_else(|_| 0),
-        parts.next().unwrap().parse().unwrap_or_else(|_| 0)
+        parts.next().unwrap_or_else(|| "0").parse().unwrap_or_else(|_| 0),
+        parts.next().unwrap_or_else(|| "0").parse().unwrap_or_else(|_| 0),
+        parts.next().unwrap_or_else(|| "0").parse().unwrap_or_else(|_| 0),
+        parts.next().unwrap_or_else(|| "0").parse().unwrap_or_else(|_| 0)
     );
     Ok(FlowId { srcip, dstip })
 }
