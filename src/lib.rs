@@ -305,6 +305,7 @@ fn generic_time<Q: Sized>(config: Config, processed: Vec<FlowId>, mut counts: Q)
 where
 Q: ItemIncrement + ItemQuery + PrintMemoryInfo + std::fmt::Debug,
 {
+    println!("LENGTH {}", (&processed).len());
     let mut start = Instant::now();
     for id in &processed {
         counts.item_increment(*id);
