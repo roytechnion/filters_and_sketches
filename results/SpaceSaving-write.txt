@@ -344,12 +344,6 @@ TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 75130340209
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving
-LENGTH 63284829
 TIMEms = 5185094
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
@@ -441,12 +435,6 @@ TEST WRITETIME
 DSTYPE SpaceSaving
 LENGTH 188511031
 TIMEms = 13752033
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving
-LENGTH 188511031
-TIMEms = 1170548570
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME

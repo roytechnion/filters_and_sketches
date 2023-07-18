@@ -344,12 +344,6 @@ TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 65838684245
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE Cuckoo
-LENGTH 63284829
 TIMEms = 2755985
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
@@ -471,12 +465,6 @@ TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
 TIMEms = 6339942
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE Cuckoo
-LENGTH 188511031
-TIMEms = 546082059
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
