@@ -1,528 +1,66 @@
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 3735010
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 3818320
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 4229633
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 3607063
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 4127099
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 3661355
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 3954011
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 3695227
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 3682012
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 4541297
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 133988641
-TIMEms = 3576459
+LENGTH 1000001
+TIMEms = 33262
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 32280
+TIMEms = 34694
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 34258
+TIMEms = 30900
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 33079
+TIMEms = 31288
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 34930
+TIMEms = 32930
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 32197
+TIMEms = 30660
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 35663
+TIMEms = 32426
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 32901
+TIMEms = 35945
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 34735
+TIMEms = 30630
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 35656
+TIMEms = 33772
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE SpaceSaving-RAP
 LENGTH 1000001
-TIMEms = 33726
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 1000001
-TIMEms = 32807
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 368218
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 316242
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 360330
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 340814
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 308517
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 350686
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 347492
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 320611
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 325519
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 338463
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 10000000
-TIMEms = 349655
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 2961815
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 3154166
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 2850621
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 2775213
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 2761293
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 2936173
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 3191677
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 2763784
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 3118967
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 2933167
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 88529637
-TIMEms = 3241010
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 824822
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 920434
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 836108
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 880614
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 1029066
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 1033269
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 947133
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 957826
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 1045950
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 927120
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 30098745
-TIMEms = 938837
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 1620871
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 2107765
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 1744152
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 2120258
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 2084455
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 1635472
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 1939910
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 1635683
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 1759867
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 1899955
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 63284829
-TIMEms = 1751678
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 9678751
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 11016504
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 9896412
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 11076425
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 9628122
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 9836052
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 9322452
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 9517718
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 9742902
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 9084969
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 8749441
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 5030018
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 5323828
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 4828506
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 5071925
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 4850045
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 5659961
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 5830901
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 5314636
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 5122614
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 6046312
-END
-TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE SpaceSaving-RAP
-LENGTH 188511031
-TIMEms = 4888517
+TIMEms = 32855
 END
