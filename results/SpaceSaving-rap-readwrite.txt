@@ -1,0 +1,463 @@
+"" 
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 6148845
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 5597437
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 5496926
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 6470736
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 5917404
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 6585522
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 5952531
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 5996419
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 6272200
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 6627924
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 133988641
+TIMEms = 5993217
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 48264
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 47007
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 48190
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 49760
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 49638
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 46343
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 46877
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 44983
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 45236
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 47260
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 1000001
+TIMEms = 45713
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 459691
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 477322
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 465317
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 517719
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 504745
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 512255
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 520564
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 501335
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 448478
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 485648
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 10000000
+TIMEms = 516017
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4366554
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4338912
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 3907565
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4069286
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4343274
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4164674
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4039120
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4531542
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4244290
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4553323
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 88529637
+TIMEms = 4102932
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1396930
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1280439
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1414439
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1499860
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1496711
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1248502
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1349504
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1333305
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1477061
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1234946
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 30098745
+TIMEms = 1450266
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 2712760
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 2694613
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 3024541
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 2668566
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 2560565
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 3003586
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 2590795
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 2509539
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 2498869
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 2571979
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 63284829
+TIMEms = 2560397
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 7759937
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 8839723
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 7850957
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 7775208
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 7357035
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 7739627
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 8403451
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 8213619
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 8075029
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 9058596
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE SpaceSaving-RAP
+LENGTH 188511031
+TIMEms = 8777807
+END
