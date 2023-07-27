@@ -154,6 +154,7 @@ where H:Hasher + Default,
 }
 
 
+
 /// translate from a generic parameter to usize
 pub trait VtoUsize {
 	fn v_to_usize(&self) -> usize;

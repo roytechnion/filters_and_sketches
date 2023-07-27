@@ -11,7 +11,7 @@ pub mod traits;
     clippy::cast_precision_loss,
     clippy::cast_lossless
 )]
-fn f64_to_usize(a: f64) -> usize {
+pub fn f64_to_usize(a: f64) -> usize {
     assert!(a.is_sign_positive() && a <= usize::max_value() as f64 && a.fract() == 0.0);
     a as usize
 }

@@ -9,6 +9,8 @@ use amadeus_streaming::CountMinSketch;
 use std::collections::{HashMap,hash_map::DefaultHasher};
 use std::hash::{Hasher, Hash};
 use num_traits::abs;
+use std::cmp::max;
+use std::mem::size_of;
 //use std::hash::{BuildHasherDefault, Hasher, Hash};
 
 pub mod more_streaming;
@@ -19,6 +21,7 @@ use crate::more_streaming::nitro_hash::NitroHash;
 use crate::more_streaming::cuckoo::CuckooCountingFilter;
 use crate::more_streaming::nitro_cuckoo::NitroCuckoo;
 use crate::more_streaming::traits::{ItemIncrement,ItemQuery,PrintMemoryInfo};
+use crate::more_streaming::f64_to_usize;
 
 #[cfg(feature = "stats")]
 use std::alloc;
@@ -182,7 +185,7 @@ fn hash_accuracy(_config: Config, processed: Vec<FlowId>) -> () {
 
 fn nitrocms_accuracy(config: Config, processed: Vec<FlowId>) -> () {
     let counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, config.sample, ());
-    return generic_accuracy(config, processed, counts);
+    return generic_accuracy(config, processed, counts, true);
 }
 
 fn nitrocms_time(config: Config, processed: Vec<FlowId>) -> Duration {
@@ -191,8 +194,19 @@ fn nitrocms_time(config: Config, processed: Vec<FlowId>) -> Duration {
 }
 
 fn cms_accuracy(config: Config, processed: Vec<FlowId>) -> () {
+    // below is a hack because the corresponding function in the Amadeus CMS implementation is commented out
+	let mut width = f64_to_usize((2.0 / config.error).round());
+	width = max(2, width)
+		.checked_next_power_of_two()
+		.expect("Width would be way too large");
+	let k_num = max(
+		1,
+		f64_to_usize((1.0/config.confidence).ln().floor()),
+	);
+    println!("Total memory: {}", width * size_of::<u32>() * k_num);
+    // end of hack
     let counts: CountMinSketch<FlowId,u32> = amadeus_streaming::CountMinSketch::new(config.confidence, config.error, ());
-    return generic_accuracy(config, processed, counts);
+    generic_accuracy(config, processed, counts, false);
 }
 
 fn cms_time(config: Config, processed: Vec<FlowId>) -> Duration {
@@ -203,7 +217,7 @@ fn cms_time(config: Config, processed: Vec<FlowId>) -> Duration {
 
 fn space_accuracy(config: Config, processed: Vec<FlowId>) -> () {
     let counts: SpaceSaving<FlowId,u32> = SpaceSaving::new(config.error, config.rap);
-    return generic_accuracy(config, processed, counts);
+    return generic_accuracy(config, processed, counts, true);
 }
 
 fn space_time(config: Config, processed: Vec<FlowId>) -> Duration {
@@ -213,7 +227,7 @@ fn space_time(config: Config, processed: Vec<FlowId>) -> Duration {
 
 fn nitrohash_accuracy(config: Config, processed: Vec<FlowId>) -> () {
     let counts: NitroHash<FlowId,u32> = NitroHash::new(config.sample);
-    return generic_accuracy(config, processed, counts);
+    return generic_accuracy(config, processed, counts, true);
 }
 
 fn nitrohash_time(config: Config, processed: Vec<FlowId>) -> Duration {
@@ -223,7 +237,7 @@ fn nitrohash_time(config: Config, processed: Vec<FlowId>) -> Duration {
 
 fn cuckoo_accuracy(config: Config, processed: Vec<FlowId>) -> () {
     let counts= CuckooCountingFilter::<DefaultHasher>::with_capacity(processed.len());
-    return generic_accuracy(config, processed, counts);
+    return generic_accuracy(config, processed, counts, true);
 }
 
 fn cuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
@@ -233,7 +247,7 @@ fn cuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
 
 fn nitrocuckoo_accuracy(config: Config, processed: Vec<FlowId>) -> () {
     let counts= NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample);
-    return generic_accuracy(config, processed, counts);
+    return generic_accuracy(config, processed, counts, true);
 }
 
 fn nitrocuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
@@ -241,7 +255,7 @@ fn nitrocuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
     return generic_time(config, processed, counts);
 }
 
-fn generic_accuracy<Q: Sized>(config: Config, processed: Vec<FlowId>, mut counts: Q) -> () 
+fn generic_accuracy<Q: Sized>(config: Config, processed: Vec<FlowId>, mut counts: Q, memory_info: bool) -> () 
 where
 Q: ItemIncrement + ItemQuery<Item=u32> + PrintMemoryInfo + std::fmt::Debug, <Q as ItemQuery>::Item: std::fmt::Display, f64: From<<Q as ItemQuery>::Item>
 {
@@ -267,7 +281,9 @@ Q: ItemIncrement + ItemQuery<Item=u32> + PrintMemoryInfo + std::fmt::Debug, <Q a
         }
     }
     println!("LENGTH {}", (&processed).len());
-    counts.print_memory_info();
+    if memory_info {
+        counts.print_memory_info();
+    }
     println!("On-Arrival MSRE {}", msre_on_arrival.sqrt()/f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
     println!("On-Arrival AVGERR {}", avgerr_on_arrival / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());
     println!("On-Arrival AVGRELERR {}", avgrelerr_on_arrival / f64::try_from(i32::try_from((&processed).len()).unwrap()).unwrap());

@@ -205,7 +205,7 @@ where
 
 	/// returns an estimation of the memory used
 	pub fn estimate_memory_size(&self) -> usize {
-	 	return self.counters.len() * std::mem::size_of::<C>() * self.k_num;
+	 	return self.counters[0].len() * std::mem::size_of::<C>() * self.k_num;
 	}
 
 	/// Clears the `NitroCMS` data structure, as if it was new.
@@ -236,7 +236,8 @@ where
 	fn optimal_k_num(probability: f64) -> usize {
 		max(
 			1,
-			f64_to_usize(((1.0 - probability).ln() / 0.5_f64.ln()).floor()),
+			//f64_to_usize(((1.0 - probability).ln() / 0.5_f64.ln()).floor()), //
+			f64_to_usize(((1.0/probability).ln()).floor()),
 		)
 	}
 
