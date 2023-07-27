@@ -62,6 +62,9 @@ impl Fingerprint {
     }
 }
 
+#[derive(PartialEq)]
+pub enum BucketPutStatus { NEWITEM, EXISTING, FAILED }
+
 /// Manages `BUCKET_SIZE` fingerprints at most.
 #[derive(Clone,Debug)]
 pub struct Bucket {
@@ -81,20 +84,20 @@ impl Bucket {
     /// Inserts the fingerprint with values val into the buffer if the buffer is not full.
     /// If the fingerprint is already there, add val to its value
     /// This operation is O(1).
-    pub fn insert(&mut self, fp: Fingerprint, val: u32) -> bool {
+    pub fn insert(&mut self, fp: Fingerprint, val: u32) -> BucketPutStatus {
         match self.get_fingerprint_index(fp) {
             Some(index) => {
                 self.values[index] += val;
-                true
+                BucketPutStatus::EXISTING
             }
             None => {
                 match self.get_fingerprint_index(Fingerprint::empty()) {
                     Some(index) => {
                         self.buffer[index] = fp;
                         self.values[index] = val;
-                        true
+                        BucketPutStatus::NEWITEM
                     }
-                    None => false,
+                    None => BucketPutStatus::FAILED,
                 }
             }
                 //for entry in &mut self.buffer {

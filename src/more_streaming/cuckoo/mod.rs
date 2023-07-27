@@ -61,6 +61,8 @@ use rand::Rng;
 #[cfg(feature = "serde_support")]
 use serde_derive::{Deserialize, Serialize};
 
+use self::bucket::BucketPutStatus;
+
 /// If insertion fails, we will retry this many times.
 pub const MAX_REBUCKET: u32 = 500;
 
@@ -209,7 +211,7 @@ where
     /// removed. This might improve in the future.
     pub fn add<T: ?Sized + Hash>(&mut self, data: &T) -> Result<(), CuckooError> {
         let fai = get_fai::<T, H>(data);
-        if self.put(fai.fp, 1_u32, fai.i1) || self.put(fai.fp, 1_u32, fai.i2) {
+        if (self.put(fai.fp, 1_u32, fai.i1) != BucketPutStatus::FAILED) || (self.put(fai.fp, 1_u32, fai.i2)!=BucketPutStatus::FAILED) {
             return Ok(());
         }
         let len = self.buckets.len();
@@ -230,7 +232,7 @@ where
                 *loc_val = val;
                 i = get_alt_index::<H>(other_fp, i);
             }
-            if self.put(other_fp, other_val, i) {
+            if self.put(other_fp, other_val, i) != BucketPutStatus::FAILED {
                 return Ok(());
             }
             fp = other_fp;
@@ -323,14 +325,13 @@ where
         }
     }
 
-    fn put(&mut self, fp: Fingerprint, val: u32, i: usize) -> bool {
+    fn put(&mut self, fp: Fingerprint, val: u32, i: usize) -> BucketPutStatus {
         let len = self.buckets.len();
-        if self.buckets[i % len].insert(fp, val) {
+        let status = self.buckets[i % len].insert(fp, val);
+        if status == BucketPutStatus::NEWITEM {
             self.len += 1;
-            true
-        } else {
-            false
         }
+        status
     }
 }
 
