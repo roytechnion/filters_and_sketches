@@ -1,0 +1,540 @@
+"" 
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 133988641
+Total memory: 44040192
+Number of items: 3495149 consuming 41941788 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 1000001
+Total memory: 1376256
+Number of items: 69046 consuming 828552 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 10000000
+Total memory: 5505024
+Number of items: 332183 consuming 3986196 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 88529637
+Total memory: 22020096
+Number of items: 1650097 consuming 19801164 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 30098745
+Total memory: 22020096
+Number of items: 1522382 consuming 18268584 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 63284829
+Total memory: 44040192
+Number of items: 2968038 consuming 35616456 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE HASH
+LENGTH 188511031
+Total memory: 44040192
+Number of items: 2922904 consuming 35074848 space
+END
