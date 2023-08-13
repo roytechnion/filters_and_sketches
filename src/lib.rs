@@ -99,12 +99,16 @@ pub struct Config {
     pub fp_size: u8,
     #[clap(short, long, default_value_t = 0.01)]
     pub sample: f64,
+    #[clap(long, default_value_t = false)]
+    pub avoid_mi: bool,
     #[clap(short, long, default_value_t = false)]
     pub verbose : bool,
     #[clap(short, long, default_value_t = false)]
     pub rap : bool,
     #[clap(long, default_value_t = false)]
     pub compare : bool,
+    #[clap(long, default_value_t = false)]
+    pub compact : bool,
 }
 
 #[derive(Hash,PartialEq,Eq,Debug,Clone,Copy)]
@@ -184,12 +188,12 @@ fn hash_accuracy(_config: Config, processed: Vec<FlowId>) -> () {
 }
 
 fn nitrocms_accuracy(config: Config, processed: Vec<FlowId>) -> () {
-    let counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, config.sample, ());
+    let counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, if config.avoid_mi { 1.0 } else { config.sample }, !(config.avoid_mi), ());
     return generic_accuracy(config, processed, counts, true);
 }
 
 fn nitrocms_time(config: Config, processed: Vec<FlowId>) -> Duration {
-    let counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, config.sample, ());
+    let counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, if config.avoid_mi { 1.0 } else { config.sample }, !(config.avoid_mi), ());
     return generic_time(config, processed, counts);
 }
 
@@ -246,12 +250,20 @@ fn cuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
 }
 
 fn nitrocuckoo_accuracy(config: Config, processed: Vec<FlowId>) -> () {
-    let counts= NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample);
+    let counts= if config.compact {
+        NitroCuckoo::<DefaultHasher>::with_capacity(processed.len()*((1.0/config.sample).ceil() as usize), config.sample)
+    } else {
+        NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample)
+    };
     return generic_accuracy(config, processed, counts, true);
 }
 
 fn nitrocuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
-    let counts= NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample);
+    let counts= if config.compact {
+        NitroCuckoo::<DefaultHasher>::with_capacity(processed.len()*((1.0/config.sample).ceil() as usize), config.sample)
+    } else {
+        NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample)
+    };
     return generic_time(config, processed, counts);
 }
 
@@ -364,6 +376,10 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     }
     if config.rap {
         println!("DSTYPE {:#?}-RAP", config.ds_type);
+    } else if config.compact {
+        println!("DSTYPE {:#?}-SMALL", config.ds_type);
+    } else if config.avoid_mi {
+        println!("DSTYPE CMS-NOMI");
     } else {
         println!("DSTYPE {:#?}", config.ds_type);
     }
@@ -390,7 +406,11 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
     if config.compare {
         match config.ds_type {
             DsType::HASH => hash_accuracy(config, processed),
-            DsType::CMS => cms_accuracy(config, processed),
+            DsType::CMS => if config.avoid_mi {
+                                nitrocms_accuracy(config, processed)
+                            } else {
+                                cms_accuracy(config, processed)
+                            },
             DsType::NitroCMS => nitrocms_accuracy(config, processed),
             DsType::FPDASH => (),
             DsType::SpaceSaving => space_accuracy(config, processed),

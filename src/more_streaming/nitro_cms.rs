@@ -44,6 +44,7 @@ pub struct NitroCMS<K: ?Sized, C: New> {
     geo: Geometric,
 	sample_prob: f64,
     factor: usize,
+	minimum_increment: bool,
     curr_counter: usize,
     next_counter: usize,
     last_index: usize,
@@ -57,7 +58,7 @@ where
 	C: New + for<'a> UnionAssign<&'a C> + Intersect + Clone + std::convert::TryFrom<usize> + std::ops::Mul<Output = C>,
 {
 	/// Create an empty `NitroCMS` data structure with the specified error tolerance.
-	pub fn new(probability: f64, tolerance: f64, sample_prob: f64, config: C::Config) -> Self {
+	pub fn new(probability: f64, tolerance: f64, sample_prob: f64, minimum_increment: bool, config: C::Config) -> Self {
 		let width = Self::optimal_width(tolerance);
 		let k_num = Self::optimal_k_num(probability);
 		let counters: Vec<Vec<C>> = (0..k_num)
@@ -79,6 +80,7 @@ where
             geo,
 			sample_prob,
             factor,
+			minimum_increment,
             curr_counter,
             next_counter,
             last_index,
@@ -96,8 +98,10 @@ where
 	{
         if self.sample_prob < 1.0 {
             self.sampled_push(key, value)
-        } else {
-            self.full_push(key, value)
+		} else if self.minimum_increment {
+			self.full_push(key, value)
+		} else {
+            self.all_push(key, value)
         }
 	}
 
@@ -127,6 +131,24 @@ where
         }
         self.default.clone()
     }
+
+	/// "Visit" an element - increment all counters
+	fn all_push<Q: ?Sized, V: ?Sized>(&mut self, key: &Q, value: &V) -> C
+	where
+		Q: Hash,
+		K: Borrow<Q>,
+		C: for<'a> ops::AddAssign<&'a V> + IntersectPlusUnionIsPlus,
+	{
+		let offsets = self.offsets(key);
+		let _ = self.counters
+			.iter_mut()
+			.zip(offsets)
+			.map(|(counters, offset)| {
+				counters[offset] += value;
+				&counters[offset]
+			});
+		self.default.clone()
+	}
 
 	/// "Visit" an element - full version - taken from the original CMS implementation
 	fn full_push<Q: ?Sized, V: ?Sized>(&mut self, key: &Q, value: &V) -> C
@@ -296,6 +318,7 @@ impl<K: ?Sized, C: New + Clone> Clone for NitroCMS<K, C> {
             geo: self.geo,
 			sample_prob: self.sample_prob,
             factor: self.factor,
+			minimum_increment: self.minimum_increment,
             curr_counter: self.curr_counter,
             next_counter: self.next_counter,
             last_index: self.last_index,
