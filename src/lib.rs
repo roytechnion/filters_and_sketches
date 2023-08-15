@@ -251,7 +251,7 @@ fn cuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
 
 fn nitrocuckoo_accuracy(config: Config, processed: Vec<FlowId>) -> () {
     let counts= if config.compact {
-        NitroCuckoo::<DefaultHasher>::with_capacity(processed.len()*((1.0/config.sample).ceil() as usize), config.sample)
+        NitroCuckoo::<DefaultHasher>::with_capacity(processed.len()/((1.0/config.sample).ceil() as usize), config.sample)
     } else {
         NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample)
     };
@@ -260,7 +260,7 @@ fn nitrocuckoo_accuracy(config: Config, processed: Vec<FlowId>) -> () {
 
 fn nitrocuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
     let counts= if config.compact {
-        NitroCuckoo::<DefaultHasher>::with_capacity(processed.len()*((1.0/config.sample).ceil() as usize), config.sample)
+        NitroCuckoo::<DefaultHasher>::with_capacity(processed.len()/((1.0/config.sample).ceil() as usize), config.sample)
     } else {
         NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample)
     };
