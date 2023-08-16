@@ -1,0 +1,2619 @@
+"" 
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 364664 consuming 3281976 space
+On-Arrival MSRE 0.1315744761286083
+On-Arrival AVGERR 590.3386608496163
+On-Arrival AVGRELERR 0.7068209596525212
+Flow MSRE 0.1349734623327068
+Flow AVGERR 21.030819859181968
+Flow AVGRELERR 2.5951422140775624
+PMW MSRE is 0.1949917330419334
+PMW AVGERR is 905.0580862970317
+PMW AVGRELERR is 0.5485976158098445
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 364194 consuming 3277746 space
+On-Arrival MSRE 0.11715859815184887
+On-Arrival AVGERR 549.7463618203277
+On-Arrival AVGRELERR 0.706131981551745
+Flow MSRE 0.1376437459169275
+Flow AVGERR 21.0431254862096
+Flow AVGRELERR 2.5969230663742664
+PMW MSRE is 0.2128786354877752
+PMW AVGERR is 937.5307597529853
+PMW AVGRELERR is 0.5489186131991013
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 364960 consuming 3284640 space
+On-Arrival MSRE 0.14844293327937694
+On-Arrival AVGERR 597.2345142824457
+On-Arrival AVGRELERR 0.7068211974803018
+Flow MSRE 0.13842015789099751
+Flow AVGERR 21.06165116279735
+Flow AVGRELERR 2.5899328952329146
+PMW MSRE is 0.2038210875527623
+PMW AVGERR is 891.9918088056435
+PMW AVGRELERR is 0.549401863081659
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 364118 consuming 3277062 space
+On-Arrival MSRE 0.19748723528150236
+On-Arrival AVGERR 641.6687751389313
+On-Arrival AVGRELERR 0.705362554976602
+Flow MSRE 0.13693994314256921
+Flow AVGERR 21.00788349795674
+Flow AVGRELERR 2.591726075484791
+PMW MSRE is 0.37205180795413173
+PMW AVGERR is 1145.5561871920172
+PMW AVGRELERR is 0.5479993113953239
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 364447 consuming 3280023 space
+On-Arrival MSRE 0.17986957595023828
+On-Arrival AVGERR 674.6459309711187
+On-Arrival AVGRELERR 0.7060511035728736
+Flow MSRE 0.1341989720248698
+Flow AVGERR 21.025233259011276
+Flow AVGRELERR 2.599775433703311
+PMW MSRE is 0.23345883264382888
+PMW AVGERR is 991.7052340205465
+PMW AVGRELERR is 0.5484518870776426
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 364668 consuming 3282012 space
+On-Arrival MSRE 0.13856849402956017
+On-Arrival AVGERR 593.8068252442384
+On-Arrival AVGRELERR 0.7061571969062754
+Flow MSRE 0.13559821267778976
+Flow AVGERR 21.04514085093368
+Flow AVGRELERR 2.588421829510141
+PMW MSRE is 0.18305085614562738
+PMW AVGERR is 873.0195966014761
+PMW AVGRELERR is 0.5489711847933411
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 364819 consuming 3283371 space
+On-Arrival MSRE 0.1145608495661787
+On-Arrival AVGERR 554.7219640432057
+On-Arrival AVGRELERR 0.7073622707234899
+Flow MSRE 0.13642969239988526
+Flow AVGERR 21.055028841402756
+Flow AVGRELERR 2.6031337661247664
+PMW MSRE is 0.16814160575575932
+PMW AVGERR is 864.1405546832884
+PMW AVGRELERR is 0.5492291171012582
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 363994 consuming 3275946 space
+On-Arrival MSRE 0.13867172964095897
+On-Arrival AVGERR 572.4182427001406
+On-Arrival AVGRELERR 0.7055369946343736
+Flow MSRE 0.13734283545060802
+Flow AVGERR 20.995680870829826
+Flow AVGRELERR 2.5884241441098177
+PMW MSRE is 0.22150096635029784
+PMW AVGERR is 878.6260664663357
+PMW AVGRELERR is 0.5476810007692842
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 364880 consuming 3283920 space
+On-Arrival MSRE 0.12296810081393562
+On-Arrival AVGERR 583.2766824390733
+On-Arrival AVGRELERR 0.7068202055756364
+Flow MSRE 0.13447928206170734
+Flow AVGERR 21.036915736639553
+Flow AVGRELERR 2.592772210647765
+PMW MSRE is 0.15797389162172404
+PMW AVGERR is 852.3727466643982
+PMW AVGRELERR is 0.5487566293379723
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 364466 consuming 3280194 space
+On-Arrival MSRE 0.1491474052110829
+On-Arrival AVGERR 607.0669810062482
+On-Arrival AVGRELERR 0.7061928575002776
+Flow MSRE 0.1368705890050505
+Flow AVGERR 21.014599091483653
+Flow AVGRELERR 2.5808660685811025
+PMW MSRE is 0.22294480508345582
+PMW AVGERR is 958.0549734436071
+PMW AVGRELERR is 0.5481744904472763
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+Total memory: 2621440
+Number of items: 365040 consuming 3285360 space
+On-Arrival MSRE 0.17133558467882254
+On-Arrival AVGERR 652.755409967924
+On-Arrival AVGRELERR 0.7063938655832362
+Flow MSRE 0.1362980989933478
+Flow AVGERR 21.018855276270052
+Flow AVGRELERR 2.584697168898536
+PMW MSRE is 0.2867148802943963
+PMW AVGERR is 1001.9763466292638
+PMW AVGRELERR is 0.5482855147705155
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3950485
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3893663
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3753355
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3767863
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3908026
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3981475
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3957971
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4228481
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3927581
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3715566
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 3727654
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 316543
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 310113
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 308225
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 348135
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 326438
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 281163
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 298954
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 300781
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 322101
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 297162
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 298587
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4138305
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4352328
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4161093
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4138851
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4102477
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4097215
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4107279
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4198806
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4347596
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4105025
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 133988641
+TIMEms = 4132841
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5308 consuming 47772 space
+On-Arrival MSRE 0.5905670920917205
+On-Arrival AVGERR 212.71877228122773
+On-Arrival AVGRELERR 1.2021821759391964
+Flow MSRE 0.190003675079253
+Flow AVGERR 14.619282796975929
+Flow AVGRELERR 2.596248874138053
+PMW MSRE is 0.8991078272467778
+PMW AVGERR is 372.44272655727343
+PMW AVGRELERR is 1.009401990596005
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5226 consuming 47034 space
+On-Arrival MSRE 0.6847484097387608
+On-Arrival AVGERR 266.5469904530095
+On-Arrival AVGRELERR 1.2221301629038568
+Flow MSRE 0.17922141893494148
+Flow AVGERR 14.553674362019523
+Flow AVGRELERR 2.608587333894025
+PMW MSRE is 0.48296144535899693
+PMW AVGERR is 245.26139973860026
+PMW AVGRELERR is 1.0048719951284133
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5255 consuming 47295 space
+On-Arrival MSRE 0.8750362142354349
+On-Arrival AVGERR 305.2888917111083
+On-Arrival AVGRELERR 1.2133956620400514
+Flow MSRE 0.2016503964128465
+Flow AVGERR 14.851186165744576
+Flow AVGRELERR 2.735964360424661
+PMW MSRE is 1.4058138339694741
+PMW AVGERR is 530.2138527861472
+PMW AVGRELERR is 1.0254139745864939
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5234 consuming 47106 space
+On-Arrival MSRE 0.3745881132235119
+On-Arrival AVGERR 170.40440259559742
+On-Arrival AVGRELERR 1.2055728894684503
+Flow MSRE 0.17357314793020528
+Flow AVGERR 14.611983315470846
+Flow AVGRELERR 2.7137533712034534
+PMW MSRE is 0.44246731048989657
+PMW AVGERR is 222.57348442651556
+PMW AVGRELERR is 1.008897991100217
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5129 consuming 46161 space
+On-Arrival MSRE 0.25803570651381125
+On-Arrival AVGERR 128.8995101004899
+On-Arrival AVGRELERR 1.2065775956597313
+Flow MSRE 0.18450057255550276
+Flow AVGERR 14.630347884019349
+Flow AVGRELERR 2.597731432891267
+PMW MSRE is 0.33206456431414055
+PMW AVGERR is 190.46208053791946
+PMW AVGRELERR is 1.0101659898316382
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5283 consuming 47547 space
+On-Arrival MSRE 1.09458735665859
+On-Arrival AVGERR 359.53419946580055
+On-Arrival AVGRELERR 1.2117161270250676
+Flow MSRE 0.20330421670456778
+Flow AVGERR 14.673797178692466
+Flow AVGRELERR 2.6364491836921973
+PMW MSRE is 2.0856919293560594
+PMW AVGERR is 733.7617652382347
+PMW AVGRELERR is 1.0131659868355856
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5245 consuming 47205 space
+On-Arrival MSRE 0.7681069377527289
+On-Arrival AVGERR 282.7058342941657
+On-Arrival AVGRELERR 1.2110431726762991
+Flow MSRE 0.17702564648288008
+Flow AVGERR 14.684427772789155
+Flow AVGRELERR 2.5997427893407132
+PMW MSRE is 0.43051519359965773
+PMW AVGERR is 229.14167185832815
+PMW AVGRELERR is 1.0138999861029838
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5244 consuming 47196 space
+On-Arrival MSRE 0.5196477444703992
+On-Arrival AVGERR 204.42647857352142
+On-Arrival AVGRELERR 1.2269556404702764
+Flow MSRE 0.1858854720128077
+Flow AVGERR 14.658676824146221
+Flow AVGRELERR 2.5968751130456766
+PMW MSRE is 0.9613093971113368
+PMW AVGERR is 391.7992272007728
+PMW AVGRELERR is 1.0121219878789876
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5299 consuming 47691 space
+On-Arrival MSRE 0.26647687625960687
+On-Arrival AVGERR 131.07040792959208
+On-Arrival AVGRELERR 1.213041367650736
+Flow MSRE 0.17898027204639005
+Flow AVGERR 14.667192885902152
+Flow AVGRELERR 2.62925355767605
+PMW MSRE is 0.2663445289997765
+PMW AVGERR is 133.47808152191848
+PMW AVGRELERR is 1.0127099872866177
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5286 consuming 47574 space
+On-Arrival MSRE 0.82768960804165
+On-Arrival AVGERR 277.84443715556284
+On-Arrival AVGRELERR 1.2152464542600183
+Flow MSRE 0.1957147299533696
+Flow AVGERR 14.865524432986705
+Flow AVGRELERR 2.6570066874044835
+PMW MSRE is 1.5233645727551355
+PMW AVGERR is 566.9570860429139
+PMW AVGRELERR is 1.0264039735972261
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+Total memory: 20480
+Number of items: 5284 consuming 47556 space
+On-Arrival MSRE 0.6186603754236222
+On-Arrival AVGERR 239.0008999991
+On-Arrival AVGRELERR 1.2178382923678284
+Flow MSRE 0.19381816305018904
+Flow AVGERR 14.81558671030907
+Flow AVGRELERR 2.673547797450737
+PMW MSRE is 1.2041836391053802
+PMW AVGERR is 476.2012567987432
+PMW AVGRELERR is 1.0229559770420533
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25620
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25140
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25606
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25624
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 30033
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25794
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25358
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25492
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25978
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25694
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 25455
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2341
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2334
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2648
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2402
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2178
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2358
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2140
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2337
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2421
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2364
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 2195
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 28112
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 26881
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 26533
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 26843
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 27817
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 26525
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 26769
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 27255
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 26714
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 26757
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 1000001
+TIMEms = 29084
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31780 consuming 286020 space
+On-Arrival MSRE 0.683569449234765
+On-Arrival AVGERR 857.2555212
+On-Arrival AVGRELERR 0.7964184890396966
+Flow MSRE 0.12318650753872742
+Flow AVGERR 18.364329300415736
+Flow AVGRELERR 2.5674216821706994
+PMW MSRE is 0.945897698176288
+PMW AVGERR is 1314.7534694
+PMW AVGRELERR is 0.6100317999926571
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31603 consuming 284427 space
+On-Arrival MSRE 0.3106371730059363
+On-Arrival AVGERR 440.677008
+On-Arrival AVGRELERR 0.7938908685475551
+Flow MSRE 0.12174245306465178
+Flow AVGERR 18.23094499116451
+Flow AVGRELERR 2.544196068310043
+PMW MSRE is 0.5856656504296628
+PMW AVGERR is 890.9541714
+PMW AVGRELERR is 0.605601000016076
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31750 consuming 285750 space
+On-Arrival MSRE 0.9775339079280678
+On-Arrival AVGERR 1121.063752
+On-Arrival AVGRELERR 0.7922757791796204
+Flow MSRE 0.1258136889256149
+Flow AVGERR 18.330992254269486
+Flow AVGRELERR 2.5359080762093176
+PMW MSRE is 1.396830910255497
+PMW AVGERR is 1799.819982
+PMW AVGRELERR is 0.6089244000040802
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31609 consuming 284481 space
+On-Arrival MSRE 0.6020208282635411
+On-Arrival AVGERR 728.885752
+On-Arrival AVGRELERR 0.7924319422915158
+Flow MSRE 0.12109531328922588
+Flow AVGERR 18.12033728396697
+Flow AVGRELERR 2.5298493888943017
+PMW MSRE is 0.19927088226130782
+PMW AVGERR is 392.5255332
+PMW AVGRELERR is 0.6019268000008494
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31707 consuming 285363 space
+On-Arrival MSRE 1.4178241033961583
+On-Arrival AVGERR 1590.0693576
+On-Arrival AVGRELERR 0.7937446181753645
+Flow MSRE 0.13160743683514406
+Flow AVGERR 18.337976356405957
+Flow AVGRELERR 2.538052765378729
+PMW MSRE is 1.4018178992177264
+PMW AVGERR is 1842.8769668
+PMW AVGRELERR is 0.6091564000081369
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31743 consuming 285687 space
+On-Arrival MSRE 0.639259217969612
+On-Arrival AVGERR 700.6555736
+On-Arrival AVGRELERR 0.7978457711015186
+Flow MSRE 0.1306177280034939
+Flow AVGERR 18.359145410812715
+Flow AVGRELERR 2.5246289998884035
+PMW MSRE is 1.219441685104786
+PMW AVGERR is 1620.4958444
+PMW AVGRELERR is 0.6098596000179792
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31413 consuming 282717 space
+On-Arrival MSRE 0.8762210156456646
+On-Arrival AVGERR 1038.1668968
+On-Arrival AVGRELERR 0.7895160800382784
+Flow MSRE 0.12429494727210702
+Flow AVGERR 18.15933988193255
+Flow AVGRELERR 2.5278818997146244
+PMW MSRE is 1.090318395391548
+PMW AVGERR is 1477.8629184
+PMW AVGRELERR is 0.6032223999988164
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31661 consuming 284949 space
+On-Arrival MSRE 0.6052915475084052
+On-Arrival AVGERR 651.7999264
+On-Arrival AVGRELERR 0.7916576599134715
+Flow MSRE 0.11805703231044422
+Flow AVGERR 18.15496879731955
+Flow AVGRELERR 2.5068909285736023
+PMW MSRE is 0.24412334565379032
+PMW AVGERR is 465.554276
+PMW AVGRELERR is 0.6030772000007836
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31723 consuming 285507 space
+On-Arrival MSRE 1.1322353937398
+On-Arrival AVGERR 1335.0804722
+On-Arrival AVGRELERR 0.7917515815086907
+Flow MSRE 0.13008123770836083
+Flow AVGERR 18.29944939987898
+Flow AVGRELERR 2.573896554154175
+PMW MSRE is 1.746573174071788
+PMW AVGERR is 2213.959929
+PMW AVGRELERR is 0.607876600001825
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31865 consuming 286785 space
+On-Arrival MSRE 0.8535249164090758
+On-Arrival AVGERR 943.2318984
+On-Arrival AVGRELERR 0.7962632663322601
+Flow MSRE 0.12687013521438573
+Flow AVGERR 18.264534909974323
+Flow AVGRELERR 2.5399307671047215
+PMW MSRE is 1.530767275022954
+PMW AVGERR is 1950.1581812
+PMW AVGRELERR is 0.6067168000007847
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+Total memory: 163840
+Number of items: 31559 consuming 284031 space
+On-Arrival MSRE 0.4628480423606867
+On-Arrival AVGERR 573.741009
+On-Arrival AVGRELERR 0.7914956059838089
+Flow MSRE 0.12002632686237304
+Flow AVGERR 18.21644093767592
+Flow AVGRELERR 2.5365619619229127
+PMW MSRE is 0.28480104472982537
+PMW AVGERR is 527.0099528
+PMW AVGRELERR is 0.6051191999954509
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 252650
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 241826
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 243348
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 242015
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 242688
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 243865
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 243490
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 241854
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 242984
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 242088
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 242313
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 21218
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 21904
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 21225
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 21833
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 22365
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 22308
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 20120
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 21261
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 21092
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 21824
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 22733
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 271251
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 269932
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 271201
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 272977
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 273948
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 272174
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 272138
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 268765
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 272013
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 272014
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 10000000
+TIMEms = 272106
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178388 consuming 1605492 space
+On-Arrival MSRE 0.4683535518265635
+On-Arrival AVGERR 1655.9205052653724
+On-Arrival AVGRELERR 0.5683692957385824
+Flow MSRE 0.4506919015685206
+Flow AVGERR 22.8692258697519
+Flow AVGRELERR 2.7033596206922756
+PMW MSRE is 0.5827676199571996
+PMW AVGERR is 2362.824005468361
+PMW AVGRELERR is 0.4262577174870401
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178879 consuming 1609911 space
+On-Arrival MSRE 0.35038864796442254
+On-Arrival AVGERR 1265.0131975126026
+On-Arrival AVGRELERR 0.5692154310387931
+Flow MSRE 0.4577777657711362
+Flow AVGERR 22.968521850533634
+Flow AVGRELERR 2.729314590529835
+PMW MSRE is 0.236730085272687
+PMW AVGERR is 1219.069326252857
+PMW AVGRELERR is 0.4281084875542297
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178594 consuming 1607346 space
+On-Arrival MSRE 0.3162651038787374
+On-Arrival AVGERR 1199.833488507357
+On-Arrival AVGRELERR 0.5691014729270025
+Flow MSRE 0.45596365897506724
+Flow AVGERR 22.983188867078724
+Flow AVGRELERR 2.714504570063055
+PMW MSRE is 0.3022817043672021
+PMW AVGERR is 1439.3632255489763
+PMW AVGRELERR is 0.4283818649254283
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178058 consuming 1602522 space
+On-Arrival MSRE 0.8374591161661249
+On-Arrival AVGERR 2659.1605992013724
+On-Arrival AVGRELERR 0.5690336036874575
+Flow MSRE 0.4544908355810663
+Flow AVGERR 23.016279042989595
+Flow AVGRELERR 2.7139068545187612
+PMW MSRE is 0.5806479889253766
+PMW AVGERR is 2345.621222450059
+PMW AVGRELERR is 0.4289986301678684
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178979 consuming 1610811 space
+On-Arrival MSRE 0.6261222971233583
+On-Arrival AVGERR 2024.2688614661324
+On-Arrival AVGRELERR 0.5694026757155185
+Flow MSRE 0.4483695932618279
+Flow AVGERR 23.011796882243893
+Flow AVGRELERR 2.7217382296979458
+PMW MSRE is 0.7863356345294836
+PMW AVGERR is 3076.0555918578993
+PMW AVGRELERR is 0.4289150874482251
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178327 consuming 1604943 space
+On-Arrival MSRE 0.9557938794705243
+On-Arrival AVGERR 2933.3544377234934
+On-Arrival AVGRELERR 0.5679633924500612
+Flow MSRE 0.4570174266409734
+Flow AVGERR 22.95960237489069
+Flow AVGRELERR 2.7133690841661093
+PMW MSRE is 0.919249464542556
+PMW AVGERR is 3266.3716749341243
+PMW AVGRELERR is 0.4279422381831019
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178179 consuming 1603611 space
+On-Arrival MSRE 0.9857550278282348
+On-Arrival AVGERR 2976.085890965531
+On-Arrival AVGRELERR 0.5668486518029688
+Flow MSRE 0.46360037831622325
+Flow AVGERR 22.92464927819395
+Flow AVGRELERR 2.705229854923418
+PMW MSRE is 1.5364733714632124
+PMW AVGERR is 5145.579544316894
+PMW AVGRELERR is 0.42729075007006734
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178543 consuming 1606887 space
+On-Arrival MSRE 0.4133204676711024
+On-Arrival AVGERR 1529.7545193820235
+On-Arrival AVGRELERR 0.5676094780267771
+Flow MSRE 0.4500913984966141
+Flow AVGERR 22.975537195692134
+Flow AVGRELERR 2.7117751820410763
+PMW MSRE is 0.6488444419474593
+PMW AVGERR is 2643.0183359613234
+PMW AVGRELERR is 0.42823924603757807
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 177870 consuming 1600830 space
+On-Arrival MSRE 0.9430265181903088
+On-Arrival AVGERR 2640.538681594278
+On-Arrival AVGRELERR 0.5706141742097495
+Flow MSRE 0.4513400545585524
+Flow AVGERR 23.01692021741752
+Flow AVGRELERR 2.7139109411315205
+PMW MSRE is 1.7334725683991343
+PMW AVGERR is 5895.378720021184
+PMW AVGRELERR is 0.42901058095079236
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178357 consuming 1605213 space
+On-Arrival MSRE 0.33524349241149576
+On-Arrival AVGERR 1077.7759705938927
+On-Arrival AVGRELERR 0.5688963763862046
+Flow MSRE 0.45981020779457027
+Flow AVGERR 22.977251034333133
+Flow AVGRELERR 2.7203458539204184
+PMW MSRE is 0.9159257570187664
+PMW AVGERR is 3327.7989626795825
+PMW AVGRELERR is 0.42827119012575515
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+Total memory: 1310720
+Number of items: 178275 consuming 1604475 space
+On-Arrival MSRE 0.3123725909248944
+On-Arrival AVGERR 1084.2096983860897
+On-Arrival AVGRELERR 0.5682672521606119
+Flow MSRE 0.45548060268424395
+Flow AVGERR 22.91212516597509
+Flow AVGRELERR 2.713095945864251
+PMW MSRE is 0.7390822208085269
+PMW AVGERR is 2884.1033548911987
+PMW AVGRELERR is 0.427057314172306
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2287670
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2227057
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2285043
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2273759
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2273906
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2234499
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2236600
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2320954
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2190112
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2223363
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2139653
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 186139
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 194117
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 182793
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 192705
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 187304
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 178539
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 190210
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 187647
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 184779
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 177924
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 189575
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2498836
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2518561
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2458098
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2491051
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2518788
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2493725
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2503414
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2462449
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2469054
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2461316
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 88529637
+TIMEms = 2413145
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80500 consuming 724500 space
+On-Arrival MSRE 0.1351425115444174
+On-Arrival AVGERR 387.1722330283206
+On-Arrival AVGRELERR 0.7139746004353409
+Flow MSRE 0.1064379544977474
+Flow AVGERR 11.758891657941305
+Flow AVGRELERR 3.0526261358498243
+PMW MSRE is 0.18580345477289717
+PMW AVGERR is 572.7352752083185
+PMW AVGRELERR is 0.5947598479654262
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 81120 consuming 730080 space
+On-Arrival MSRE 0.13274470896768562
+On-Arrival AVGERR 384.2115818117998
+On-Arrival AVGRELERR 0.7132190515203772
+Flow MSRE 0.10267279356417858
+Flow AVGERR 11.76825330304746
+Flow AVGRELERR 3.0297269053495257
+PMW MSRE is 0.1582791596804851
+PMW AVGERR is 525.8238439177447
+PMW AVGRELERR is 0.5952333560793972
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80455 consuming 724095 space
+On-Arrival MSRE 0.1841290019137421
+On-Arrival AVGERR 423.2672452954434
+On-Arrival AVGRELERR 0.7148855660130878
+Flow MSRE 0.10330040405600331
+Flow AVGERR 11.734768934472426
+Flow AVGRELERR 3.047438505768018
+PMW MSRE is 0.24011399745834022
+PMW AVGERR is 614.6164768331703
+PMW AVGRELERR is 0.5935397306527351
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80707 consuming 726363 space
+On-Arrival MSRE 0.1556721577555049
+On-Arrival AVGERR 404.7627037273481
+On-Arrival AVGRELERR 0.7119016137729979
+Flow MSRE 0.10505753626549749
+Flow AVGERR 11.745758291939868
+Flow AVGRELERR 3.0384416465529034
+PMW MSRE is 0.2234326645494128
+PMW AVGERR is 631.0991853979294
+PMW AVGRELERR is 0.5940955677707546
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80777 consuming 726993 space
+On-Arrival MSRE 0.16334183156245136
+On-Arrival AVGERR 422.3067254465261
+On-Arrival AVGRELERR 0.7161722318987254
+Flow MSRE 0.10480858375333624
+Flow AVGERR 11.77976421161049
+Flow AVGRELERR 3.0476393433927385
+PMW MSRE is 0.248359103196272
+PMW AVGERR is 660.4186981550228
+PMW AVGRELERR is 0.5958155730514835
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80861 consuming 727749 space
+On-Arrival MSRE 0.15454895533757154
+On-Arrival AVGERR 407.6318598333585
+On-Arrival AVGRELERR 0.7155987624541436
+Flow MSRE 0.10324613605169887
+Flow AVGERR 11.784601368119171
+Flow AVGRELERR 3.034428854173492
+PMW MSRE is 0.2345289330890187
+PMW AVGERR is 647.5290565437197
+PMW AVGRELERR is 0.5960602344028262
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80784 consuming 727056 space
+On-Arrival MSRE 0.14255104334556362
+On-Arrival AVGERR 398.18410717789067
+On-Arrival AVGRELERR 0.7162135243321902
+Flow MSRE 0.1047390668575863
+Flow AVGERR 11.80681786831426
+Flow AVGRELERR 3.051409136955663
+PMW MSRE is 0.21571418828509956
+PMW AVGERR is 634.4985117153556
+PMW AVGRELERR is 0.5971839357407012
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80598 consuming 725382 space
+On-Arrival MSRE 0.12250184570271938
+On-Arrival AVGERR 370.19702286590353
+On-Arrival AVGRELERR 0.713540154109526
+Flow MSRE 0.10607766909245031
+Flow AVGERR 11.736877472276998
+Flow AVGRELERR 3.030423247412961
+PMW MSRE is 0.1680276670296051
+PMW AVGERR is 540.0951954309058
+PMW AVGRELERR is 0.5936463796135828
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80567 consuming 725103 space
+On-Arrival MSRE 0.14103850582596306
+On-Arrival AVGERR 396.1035462109799
+On-Arrival AVGRELERR 0.714113359442835
+Flow MSRE 0.10633859709837164
+Flow AVGERR 11.744108246156353
+Flow AVGRELERR 3.0422869808937585
+PMW MSRE is 0.16618238764405205
+PMW AVGERR is 538.9647719531163
+PMW AVGRELERR is 0.5940121091471424
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80772 consuming 726948 space
+On-Arrival MSRE 0.12290372647888458
+On-Arrival AVGERR 373.83762156860695
+On-Arrival AVGRELERR 0.7137645332889184
+Flow MSRE 0.1049667855923859
+Flow AVGERR 11.772986674829314
+Flow AVGRELERR 3.052141328950721
+PMW MSRE is 0.16882543913505288
+PMW AVGERR is 546.763556387484
+PMW AVGRELERR is 0.5954727680523298
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+Total memory: 655360
+Number of items: 80971 consuming 728739 space
+On-Arrival MSRE 0.12466685569969901
+On-Arrival AVGERR 370.896208230609
+On-Arrival AVGRELERR 0.7149516762867935
+Flow MSRE 0.10436424962508915
+Flow AVGERR 11.784739309844705
+Flow AVGRELERR 3.051973268773112
+PMW MSRE is 0.18200476400213497
+PMW AVGERR is 576.8315190218063
+PMW AVGRELERR is 0.5960672114532974
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 736148
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 734326
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 731781
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 741370
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 771678
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 730326
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 725987
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 732755
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 735095
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 728971
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 727619
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 64613
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 68179
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 65378
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 64882
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 64581
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 64380
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 72157
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 64176
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 64748
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 65329
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 64230
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 818734
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 818612
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 827297
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 822574
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 824972
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 822725
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 819141
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 829670
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 810654
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 830570
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 30098745
+TIMEms = 833198
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 228530 consuming 2056770 space
+On-Arrival MSRE 0.06591220399061803
+On-Arrival AVGERR 254.28162590120928
+On-Arrival AVGRELERR 0.910726030413974
+Flow MSRE 0.05930839028272198
+Flow AVGERR 15.749172685794454
+Flow AVGRELERR 2.8022096946297395
+PMW MSRE is 0.0919219605058309
+PMW AVGERR is 382.92161287186224
+PMW AVGRELERR is 0.7386311022654605
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 227889 consuming 2051001 space
+On-Arrival MSRE 0.0666704146253734
+On-Arrival AVGERR 256.3306595487522
+On-Arrival AVGRELERR 0.9109563079058144
+Flow MSRE 0.06061816343741675
+Flow AVGERR 15.75842121967441
+Flow AVGRELERR 2.8144805933062176
+PMW MSRE is 0.093466559103579
+PMW AVGERR is 386.14284034803984
+PMW AVGRELERR is 0.7390648554982048
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 228189 consuming 2053701 space
+On-Arrival MSRE 0.0688940943186527
+On-Arrival AVGERR 259.69290439261516
+On-Arrival AVGRELERR 0.9092217026020492
+Flow MSRE 0.0603716762155299
+Flow AVGERR 15.748788593677036
+Flow AVGRELERR 2.809443059005337
+PMW MSRE is 0.09434676526679486
+PMW AVGERR is 386.05837305809894
+PMW AVGRELERR is 0.738613088463511
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 228253 consuming 2054277 space
+On-Arrival MSRE 0.06901414950352043
+On-Arrival AVGERR 259.2416115243039
+On-Arrival AVGRELERR 0.9105548048473224
+Flow MSRE 0.061046824154440946
+Flow AVGERR 15.77498704531411
+Flow AVGRELERR 2.8089942440864473
+PMW MSRE is 0.09403451274238248
+PMW AVGERR is 383.93322691920366
+PMW AVGRELERR is 0.7398417873721898
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 227732 consuming 2049588 space
+On-Arrival MSRE 0.06266273622455738
+On-Arrival AVGERR 248.92830585036424
+On-Arrival AVGRELERR 0.908074365098301
+Flow MSRE 0.060077030295648426
+Flow AVGERR 15.73147075610218
+Flow AVGRELERR 2.8080902316315264
+PMW MSRE is 0.09275974622285692
+PMW AVGERR is 384.5149865380848
+PMW AVGRELERR is 0.7378008874922298
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 227636 consuming 2048724 space
+On-Arrival MSRE 0.06654548606027945
+On-Arrival AVGERR 252.78472003139962
+On-Arrival AVGRELERR 0.9108513199401221
+Flow MSRE 0.06074967962776492
+Flow AVGERR 15.722643375859743
+Flow AVGRELERR 2.799440432413009
+PMW MSRE is 0.09165690596770035
+PMW AVGERR is 368.45711522741095
+PMW AVGRELERR is 0.7373868861966312
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 229091 consuming 2061819 space
+On-Arrival MSRE 0.0604295621154136
+On-Arrival AVGERR 244.4351838100092
+On-Arrival AVGRELERR 0.9130395777684903
+Flow MSRE 0.06046471806726491
+Flow AVGERR 15.783656745634659
+Flow AVGRELERR 2.8240775323954868
+PMW MSRE is 0.08334119918626624
+PMW AVGERR is 361.34373135463477
+PMW AVGRELERR is 0.7402483934968477
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 228457 consuming 2056113 space
+On-Arrival MSRE 0.06117600345082994
+On-Arrival AVGERR 243.15095320870662
+On-Arrival AVGRELERR 0.9101128495347196
+Flow MSRE 0.0607598701350485
+Flow AVGERR 15.758862588686533
+Flow AVGRELERR 2.8092558198770576
+PMW MSRE is 0.0916514781191127
+PMW AVGERR is 376.7549056504522
+PMW AVGRELERR is 0.739085555577525
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 227922 consuming 2051298 space
+On-Arrival MSRE 0.07407103391565267
+On-Arrival AVGERR 266.00405432082306
+On-Arrival AVGRELERR 0.9089936743877413
+Flow MSRE 0.05972748886456541
+Flow AVGERR 15.70821229377791
+Flow AVGRELERR 2.800514287619723
+PMW MSRE is 0.11115506508026304
+PMW AVGERR is 404.5609565445772
+PMW AVGRELERR is 0.7367100731334904
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 228865 consuming 2059785 space
+On-Arrival MSRE 0.06969690048565763
+On-Arrival AVGERR 260.33465971757624
+On-Arrival AVGRELERR 0.9124108275544266
+Flow MSRE 0.06064127904456307
+Flow AVGERR 15.771812557655933
+Flow AVGRELERR 2.819748878854157
+PMW MSRE is 0.094167779015999
+PMW AVGERR is 379.5131469976793
+PMW AVGRELERR is 0.7396929049156052
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+Total memory: 1310720
+Number of items: 228015 consuming 2052135 space
+On-Arrival MSRE 0.06272579067331287
+On-Arrival AVGERR 246.35970123266037
+On-Arrival AVGRELERR 0.9097296912353805
+Flow MSRE 0.060732504736317354
+Flow AVGERR 15.735786064733672
+Flow AVGRELERR 2.7989243269753703
+PMW MSRE is 0.09051907847799417
+PMW AVGERR is 375.31592728171864
+PMW AVGRELERR is 0.7380032740484632
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1792153
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1802448
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1783453
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1805048
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1795210
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1789018
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1777707
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1777824
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1766086
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1767381
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1767765
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 132917
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 142314
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 130719
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 129965
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 144042
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 143338
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 141902
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 141942
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 129542
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 140729
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 129719
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1949826
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1936228
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1934138
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1939665
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1995944
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1938108
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1948328
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 2003395
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1970547
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1953483
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 63284829
+TIMEms = 1949356
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 399645 consuming 3596805 space
+On-Arrival MSRE 0.06952647044047523
+On-Arrival AVGERR 472.45201935158906
+On-Arrival AVGRELERR 0.6000904485436379
+Flow MSRE 0.1671754841162041
+Flow AVGERR 27.768714607116756
+Flow AVGRELERR 2.7871150454239006
+PMW MSRE is 0.0997656817450408
+PMW AVGERR is 701.1054555688044
+PMW AVGRELERR is 0.4305598806293595
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 399645 consuming 3596805 space
+On-Arrival MSRE 0.07150897942177294
+On-Arrival AVGERR 483.4124906037992
+On-Arrival AVGRELERR 0.5991134108820425
+Flow MSRE 0.14328794404254455
+Flow AVGERR 27.677200824933013
+Flow AVGRELERR 2.7630489558690257
+PMW MSRE is 0.10434353671250851
+PMW AVGERR is 734.4332057416841
+PMW AVGRELERR is 0.4291409397659343
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 398979 consuming 3590811 space
+On-Arrival MSRE 0.06600187538294723
+On-Arrival AVGERR 460.4871018608985
+On-Arrival AVGRELERR 0.5989988509637406
+Flow MSRE 0.1669110126351528
+Flow AVGERR 27.73267989643177
+Flow AVGRELERR 2.778609431862481
+PMW MSRE is 0.09493238019889863
+PMW AVGERR is 693.9001686484861
+PMW AVGRELERR is 0.4300011546844076
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 400258 consuming 3602322 space
+On-Arrival MSRE 0.08451649367342527
+On-Arrival AVGERR 495.61590534190015
+On-Arrival AVGRELERR 0.6002965356311587
+Flow MSRE 0.16747050855835294
+Flow AVGERR 27.820940749336962
+Flow AVGRELERR 2.795112169506594
+PMW MSRE is 0.12675222922457532
+PMW AVGERR is 772.7933745638471
+PMW AVGRELERR is 0.4313696581475887
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 399809 consuming 3598281 space
+On-Arrival MSRE 0.07862316691134127
+On-Arrival AVGERR 481.28959429435196
+On-Arrival AVGRELERR 0.6004030045791218
+Flow MSRE 0.16884433559307438
+Flow AVGERR 27.777045363104637
+Flow AVGRELERR 2.7970521225718676
+PMW MSRE is 0.10999043944627764
+PMW AVGERR is 724.7026743543724
+PMW AVGRELERR is 0.4306890507556218
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 398989 consuming 3590901 space
+On-Arrival MSRE 0.07485182201435686
+On-Arrival AVGERR 489.6079904522935
+On-Arrival AVGRELERR 0.6003963801046411
+Flow MSRE 0.1677491852470633
+Flow AVGERR 27.72958913464144
+Flow AVGRELERR 2.7729891126206523
+PMW MSRE is 0.09842089601151814
+PMW AVGERR is 709.3844743175798
+PMW AVGRELERR is 0.42995323178967837
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 399584 consuming 3596256 space
+On-Arrival MSRE 0.07508187682541435
+On-Arrival AVGERR 486.10637149398434
+On-Arrival AVGRELERR 0.5991000613110079
+Flow MSRE 0.16683686010329038
+Flow AVGERR 27.737684508283543
+Flow AVGRELERR 2.7881484367065497
+PMW MSRE is 0.09528134171150708
+PMW AVGERR is 699.5815147125263
+PMW AVGRELERR is 0.4300787522721009
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 399154 consuming 3592386 space
+On-Arrival MSRE 0.07064290954170076
+On-Arrival AVGERR 481.9888892655836
+On-Arrival AVGRELERR 0.5973004772810053
+Flow MSRE 0.14710729735280176
+Flow AVGERR 27.72663248604812
+Flow AVGRELERR 2.7765665674985662
+PMW MSRE is 0.09962976143234427
+PMW AVGERR is 711.6049349865367
+PMW AVGRELERR is 0.4299073882974484
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 399015 consuming 3591135 space
+On-Arrival MSRE 0.0633560159613551
+On-Arrival AVGERR 452.75707215245137
+On-Arrival AVGRELERR 0.5998815820064752
+Flow MSRE 0.16849507241161119
+Flow AVGERR 27.818738145351336
+Flow AVGRELERR 2.790867774917482
+PMW MSRE is 0.09019679924368539
+PMW AVGERR is 693.1866821257797
+PMW AVGRELERR is 0.431335506321243
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 399174 consuming 3592566 space
+On-Arrival MSRE 0.07204337678192183
+On-Arrival AVGERR 470.23344543694105
+On-Arrival AVGRELERR 0.6006675094420987
+Flow MSRE 0.17081885780272707
+Flow AVGERR 27.793846462285455
+Flow AVGRELERR 2.7966639253929206
+PMW MSRE is 0.10827102177572255
+PMW AVGERR is 723.9191676109394
+PMW AVGRELERR is 0.43094955541602825
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+Total memory: 2621440
+Number of items: 399243 consuming 3593187 space
+On-Arrival MSRE 0.0733782559688138
+On-Arrival AVGERR 485.89241918686446
+On-Arrival AVGRELERR 0.6018694207900273
+Flow MSRE 0.17260907703271078
+Flow AVGERR 27.87101629064793
+Flow AVGRELERR 2.7972063957853024
+PMW MSRE is 0.10570482881226137
+PMW AVGERR is 735.3712953328445
+PMW AVGRELERR is 0.43214609018329897
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5023229
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 4968309
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 4950538
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 4921197
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 4947530
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 4956256
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5015309
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 4962683
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5080463
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5026411
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 4912332
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 470006
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 424100
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 396656
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 423172
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 458089
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 419630
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 386283
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 437820
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 455777
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 487994
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 459820
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5523947
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5581870
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5646489
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5753304
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5730032
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5670295
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5673843
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5678980
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5989734
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5510387
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE NitroCuckoo-SMALL
+LENGTH 188511031
+TIMEms = 5531988
+END
