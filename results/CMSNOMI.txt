@@ -1,0 +1,2542 @@
+"" 
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 133988641
+Total memory: 4096
+On-Arrival MSRE 11.387095731795437
+On-Arrival AVGERR 25430.92999352833
+On-Arrival AVGRELERR 1
+Flow MSRE 0.7468960214603763
+Flow AVGERR 38.33560200151696
+Flow AVGRELERR 1
+PMW MSRE is 19.723013923191505
+PMW AVGERR is 50860.85998705666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3730715
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3924122
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3925238
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3926848
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3754330
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3682555
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3734588
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3780419
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3698752
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 5029225
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 4445698
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3009425
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 2905625
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3023295
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 2975960
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3019829
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 2890690
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3012649
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 3006411
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 2912378
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 2937883
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 2935792
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 8039233
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 6854844
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 6975934
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 6962364
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 6959626
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 6911875
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 6799442
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 6829542
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 7155709
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 7128759
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 133988641
+TIMEms = 7195213
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 1000001
+Total memory: 4096
+On-Arrival MSRE 15.254849897612152
+On-Arrival AVGERR 4187.453811546188
+On-Arrival AVGRELERR 1
+Flow MSRE 1.325335332327661
+Flow AVGERR 14.483112707470383
+Flow AVGRELERR 1
+PMW MSRE is 26.421937378760838
+PMW AVGERR is 8373.907623092377
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27408
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27735
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27740
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27657
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27682
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27389
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27207
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27369
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27705
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27734
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 27558
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 22388
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 22252
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 21948
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 22360
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 21932
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 22248
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 22348
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 21383
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 22687
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 21968
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 21462
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 50341
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 52754
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 52039
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 56994
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 52026
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 51104
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 50792
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 50279
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 50391
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 51358
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 1000001
+TIMEms = 50888
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 10000000
+Total memory: 4096
+On-Arrival MSRE 81.12709071659134
+On-Arrival AVGERR 80362.8634672
+On-Arrival AVGRELERR 1
+Flow MSRE 3.8164883878808653
+Flow AVGERR 30.103888519280037
+Flow AVGRELERR 1
+PMW MSRE is 140.51615720555407
+PMW AVGERR is 160724.7269344
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 278435
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 307259
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 334561
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 275690
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 278149
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 278519
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 277513
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 278333
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 274924
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 275166
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 278698
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 221915
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 220511
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 218438
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 222204
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 221431
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 216241
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 222662
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 221299
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 219230
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 221492
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 216711
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 519106
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 555021
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 507087
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 508761
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 508564
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 505507
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 504501
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 505450
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 511823
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 573953
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 10000000
+TIMEms = 503541
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 88529637
+Total memory: 4096
+On-Arrival MSRE 164.8777332050787
+On-Arrival AVGERR 432662.7145157954
+On-Arrival AVGRELERR 1
+Flow MSRE 5.304254448295449
+Flow AVGERR 53.65117141598343
+Flow AVGRELERR 1
+PMW MSRE is 285.5765852632662
+PMW AVGERR is 865324.4290315908
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2994971
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2465316
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2519327
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2484135
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2433965
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2949265
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 3313027
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2481629
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2917847
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2433182
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2501549
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 1943657
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2007265
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 1919159
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 1977367
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2019315
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2047131
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2003638
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 2004232
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 1988110
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 1969880
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 1922523
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4638930
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4557479
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4781207
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4526894
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4556927
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 5957216
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4515076
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4550003
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4605611
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4959325
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 88529637
+TIMEms = 4623612
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 30098745
+Total memory: 4096
+On-Arrival MSRE 3.2686174288603307
+On-Arrival AVGERR 6103.099862170333
+On-Arrival AVGRELERR 1
+Flow MSRE 0.3981282534367037
+Flow AVGERR 19.770822960334527
+Flow AVGRELERR 1
+PMW MSRE is 5.661357735220844
+PMW AVGERR is 12205.199724340666
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 836484
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 826719
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 837931
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 835823
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 824326
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 826657
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 839677
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 827831
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 826964
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 838526
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 824370
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 659033
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 674917
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 651307
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 648657
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 663113
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 795193
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 647687
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 675136
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 669698
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 676399
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 662543
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1534018
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1538960
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1794090
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1534621
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1592847
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1535505
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1509915
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1537333
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1602056
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1958152
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 30098745
+TIMEms = 1533818
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 63284829
+Total memory: 4096
+On-Arrival MSRE 1.0895561563156024
+On-Arrival AVGERR 2811.563286692297
+On-Arrival AVGRELERR 1
+Flow MSRE 0.2009697341211121
+Flow AVGERR 21.322108746586128
+Flow AVGRELERR 1
+PMW MSRE is 1.8871313109521983
+PMW AVGERR is 5622.126573384594
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1778190
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1780857
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1770706
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1770690
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1780777
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1784434
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1761179
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1770104
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1759137
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1776009
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1730188
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1419486
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1388058
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1424195
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1376504
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1399391
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1402281
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1398418
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1389197
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1368657
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1422779
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 1422040
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3292452
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3201300
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3205566
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3227765
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3270151
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3206268
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3249298
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3200724
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3206106
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3603526
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 63284829
+TIMEms = 3251778
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST COMPARE
+DSTYPE CMS-NOMI
+LENGTH 188511031
+Total memory: 4096
+On-Arrival MSRE 2.2453860911191583
+On-Arrival AVGERR 9755.073573312535
+On-Arrival AVGRELERR 1
+Flow MSRE 0.6561044372639475
+Flow AVGERR 64.49443122319447
+Flow AVGRELERR 1
+PMW MSRE is 3.8891028354734045
+PMW AVGERR is 19509.14714662507
+PMW AVGRELERR is 1
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5347394
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5342236
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5277710
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5245295
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5324781
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5270624
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5543233
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5539859
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5518407
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5329040
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5445459
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4113142
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4195169
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 5139004
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4204765
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4155856
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4090668
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4081587
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4078212
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4256958
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4156001
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 4249076
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9680950
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9535002
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9641514
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9669099
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9553795
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9662579
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9860242
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9671201
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9669414
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9612209
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS-NOMI
+LENGTH 188511031
+TIMEms = 9584690
+END
