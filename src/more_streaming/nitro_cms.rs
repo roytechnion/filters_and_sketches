@@ -140,12 +140,11 @@ where
 		C: for<'a> ops::AddAssign<&'a V> + IntersectPlusUnionIsPlus,
 	{
 		let offsets = self.offsets(key);
-		let _ = self.counters
+		self.counters
 			.iter_mut()
 			.zip(offsets)
-			.map(|(counters, offset)| {
+			.for_each(|(counters, offset)| {
 				counters[offset] += value;
-				&counters[offset]
 			});
 		self.default.clone()
 	}
