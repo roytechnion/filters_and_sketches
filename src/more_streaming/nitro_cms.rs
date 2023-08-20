@@ -344,7 +344,7 @@ mod tests {
 	#[test]
 	#[should_panic]
 	fn test_overflow() {
-		let mut cms = NitroCMS8::<&str>::new(0.95, 10.0 / 100.0, 0.1, ());
+		let mut cms = NitroCMS8::<&str>::new(0.95, 10.0 / 100.0, 0.1, true, ());
 		for _ in 0..300 {
 			let _ = cms.push("key", &1);
 		}
@@ -353,7 +353,7 @@ mod tests {
 
 	#[test]
 	fn test_increment() {
-		let mut cms = NitroCMS32::<&str>::new(0.95, 2.0 / 100.0, 0.1, ());
+		let mut cms = NitroCMS32::<&str>::new(0.95, 2.0 / 100.0, 0.1, true, ());
 		for _ in 0..300_000 {
 			let _ = cms.push("key", &1);
 		}
@@ -364,7 +364,7 @@ mod tests {
 	#[test]
 	#[cfg_attr(miri, ignore)]
 	fn test_increment_multi() {
-		let mut cms = NitroCMS64::<u64>::new(0.99, 2.0 / 100.0, 0.1, ());
+		let mut cms = NitroCMS64::<u64>::new(0.99, 2.0 / 100.0, 0.1, true, ());
 		for i in 0..10_000_000 {
 			let _ = cms.push(&(i % 100), &1);
 		}

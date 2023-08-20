@@ -5,13 +5,12 @@ use std::error::Error;
 use clap::Parser;
 use std::str::FromStr;
 use std::net::Ipv4Addr;
-use amadeus_streaming::CountMinSketch;
+//use amadeus_streaming::CountMinSketch;
 use std::collections::{HashMap,hash_map::DefaultHasher};
 use std::hash::{Hasher, Hash};
 use num_traits::abs;
-use std::cmp::max;
-use std::mem::size_of;
-//use std::hash::{BuildHasherDefault, Hasher, Hash};
+//use std::cmp::max;
+//use std::mem::size_of;
 
 pub mod more_streaming;
 
@@ -21,7 +20,7 @@ use crate::more_streaming::nitro_hash::NitroHash;
 use crate::more_streaming::cuckoo::CuckooCountingFilter;
 use crate::more_streaming::nitro_cuckoo::NitroCuckoo;
 use crate::more_streaming::traits::{ItemIncrement,ItemQuery,PrintMemoryInfo};
-use crate::more_streaming::f64_to_usize;
+//use crate::more_streaming::f64_to_usize;
 
 #[cfg(feature = "stats")]
 use std::alloc;
@@ -198,24 +197,26 @@ fn nitrocms_time(config: Config, processed: Vec<FlowId>) -> Duration {
 }
 
 fn cms_accuracy(config: Config, processed: Vec<FlowId>) -> () {
-    // below is a hack because the corresponding function in the Amadeus CMS implementation is commented out
-	let mut width = f64_to_usize((2.0 / config.error).round());
-	width = max(2, width)
-		.checked_next_power_of_two()
-		.expect("Width would be way too large");
-	let k_num = max(
-		1,
-		f64_to_usize((1.0/config.confidence).ln().floor()),
-	);
-    println!("Total memory: {}", width * size_of::<u32>() * k_num);
-    // end of hack
-    let counts: CountMinSketch<FlowId,u32> = amadeus_streaming::CountMinSketch::new(config.confidence, config.error, ());
-    generic_accuracy(config, processed, counts, false);
+    //// below is a hack because the corresponding function in the Amadeus CMS implementation is commented out
+	//let mut width = f64_to_usize((2.0 / config.error).round());
+	//width = max(2, width)
+	//	.checked_next_power_of_two()
+	//	.expect("Width would be way too large");
+	//let k_num = max(
+	//	1,
+	//	f64_to_usize((1.0/config.confidence).ln().floor()),
+	//);
+    //println!("Total memory: {}", width * size_of::<u32>() * k_num);
+    //// end of hack
+    //let counts: CountMinSketch<FlowId,u32> = amadeus_streaming::CountMinSketch::new(config.confidence, config.error, ());
+    // The code from Amadeus gave much worse accuracy even though it looks the same, so I am not using the local version
+    let counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, 1.0 , !(config.avoid_mi), ());
+    generic_accuracy(config, processed, counts, true);
 }
 
 fn cms_time(config: Config, processed: Vec<FlowId>) -> Duration {
-    let counts: CountMinSketch<FlowId,u32> = 
-                    amadeus_streaming::CountMinSketch::new(config.confidence, config.error, ());
+    //let counts: CountMinSketch<FlowId,u32> = amadeus_streaming::CountMinSketch::new(config.confidence, config.error, ());
+    let counts: NitroCMS<FlowId,u32> = NitroCMS::new(config.confidence, config.error, 1.0 , !(config.avoid_mi), ());
     return generic_time(config, processed, counts);
 }
 
