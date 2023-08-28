@@ -3,461 +3,545 @@ TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.sma
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2350105
+TIMEms = 2266741
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2353466
+TIMEms = 2262477
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2336289
+TIMEms = 2289257
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2329250
+TIMEms = 2267684
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2361572
+TIMEms = 2246357
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2348270
+TIMEms = 2275828
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2398674
+TIMEms = 2226883
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2271280
+TIMEms = 2234287
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2441714
+TIMEms = 2211368
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2477915
+TIMEms = 2251174
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 133988641
-TIMEms = 2347185
+TIMEms = 2243244
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 133988641
+TIMEms = 2259609
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 133988641
+TIMEms = 2265243
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 16961
+TIMEms = 16497
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 17102
+TIMEms = 16672
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 17245
+TIMEms = 16421
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 16961
+TIMEms = 16406
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 16867
+TIMEms = 16199
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 16825
+TIMEms = 16517
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 16872
+TIMEms = 16245
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 16880
+TIMEms = 16293
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 16941
+TIMEms = 16246
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 16885
+TIMEms = 16139
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 1000001
-TIMEms = 17645
+TIMEms = 16264
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 1000001
+TIMEms = 16435
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 1000001
+TIMEms = 16377
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 153901
+TIMEms = 150888
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 154101
+TIMEms = 148402
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 153693
+TIMEms = 148325
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 151713
+TIMEms = 148449
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 152713
+TIMEms = 150676
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 153391
+TIMEms = 149128
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 153337
+TIMEms = 149612
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 153023
+TIMEms = 148148
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 152525
+TIMEms = 149239
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 153086
+TIMEms = 149550
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 10000000
-TIMEms = 153314
+TIMEms = 150518
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 10000000
+TIMEms = 148284
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 10000000
+TIMEms = 149513
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1407897
+TIMEms = 1341729
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1385941
+TIMEms = 1320786
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1396993
+TIMEms = 1320071
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1407043
+TIMEms = 1340213
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1388123
+TIMEms = 1320066
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1378245
+TIMEms = 1376028
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1414489
+TIMEms = 1327839
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1381707
+TIMEms = 1328647
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1404677
+TIMEms = 1319687
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1406685
+TIMEms = 1330378
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 88529637
-TIMEms = 1375544
+TIMEms = 1318206
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 88529637
+TIMEms = 1350141
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 88529637
+TIMEms = 1356232
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 460756
+TIMEms = 448858
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 462064
+TIMEms = 448252
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 463632
+TIMEms = 450407
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 462839
+TIMEms = 454008
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 461593
+TIMEms = 447039
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 464225
+TIMEms = 450633
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 463315
+TIMEms = 455715
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 464678
+TIMEms = 450217
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 463797
+TIMEms = 448302
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 469823
+TIMEms = 451624
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 30098745
-TIMEms = 464595
+TIMEms = 448019
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 30098745
+TIMEms = 448555
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 30098745
+TIMEms = 449421
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1209807
+TIMEms = 1183441
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1215702
+TIMEms = 1189357
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1208505
+TIMEms = 1185837
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1203472
+TIMEms = 1185155
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1213488
+TIMEms = 1188751
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1203608
+TIMEms = 1189089
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1138223
+TIMEms = 1189323
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1234656
+TIMEms = 1187793
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1219091
+TIMEms = 1191260
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1220206
+TIMEms = 1182848
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 63284829
-TIMEms = 1213541
+TIMEms = 1189060
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 63284829
+TIMEms = 1100516
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 63284829
+TIMEms = 1180023
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3258906
+TIMEms = 3020894
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3351327
+TIMEms = 3071799
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3502095
+TIMEms = 3165838
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3309783
+TIMEms = 3029956
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3158267
+TIMEms = 3053221
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3269309
+TIMEms = 3064055
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3259123
+TIMEms = 3052624
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3134289
+TIMEms = 3032801
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3135058
+TIMEms = 3005241
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3201354
+TIMEms = 3033476
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE NitroHash
 LENGTH 188511031
-TIMEms = 3135326
+TIMEms = 3157502
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 188511031
+TIMEms = 3026849
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE NitroHash
+LENGTH 188511031
+TIMEms = 3061043
 END

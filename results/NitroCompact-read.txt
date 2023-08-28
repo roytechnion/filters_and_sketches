@@ -1,547 +1,547 @@
 "" 
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 372189
+TIMEms = 3694294
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 361024
+TIMEms = 3673764
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 352644
+TIMEms = 3654712
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 398201
+TIMEms = 3709313
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 407393
+TIMEms = 3707892
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 372397
+TIMEms = 3717649
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 376142
+TIMEms = 3786673
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 372061
+TIMEms = 3813300
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 351949
+TIMEms = 3913165
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 414821
+TIMEms = 3882563
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 379538
+TIMEms = 3942117
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 352298
+TIMEms = 3669717
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 133988641
-TIMEms = 387829
+TIMEms = 3720513
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2692
+TIMEms = 25834
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2641
+TIMEms = 25574
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2628
+TIMEms = 26080
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2736
+TIMEms = 25910
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2500
+TIMEms = 26503
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2835
+TIMEms = 25532
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2762
+TIMEms = 25778
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2520
+TIMEms = 25483
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2683
+TIMEms = 25591
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2676
+TIMEms = 25648
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2772
+TIMEms = 25649
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2837
+TIMEms = 25504
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 1000001
-TIMEms = 2890
+TIMEms = 25498
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26670
+TIMEms = 245667
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 23888
+TIMEms = 246960
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26274
+TIMEms = 245323
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26059
+TIMEms = 244130
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 25548
+TIMEms = 244634
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26562
+TIMEms = 244699
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26936
+TIMEms = 246631
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26030
+TIMEms = 245094
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26641
+TIMEms = 243924
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26690
+TIMEms = 244507
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26796
+TIMEms = 245229
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26161
+TIMEms = 243916
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 10000000
-TIMEms = 26902
+TIMEms = 245469
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 244006
+TIMEms = 2121899
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 234088
+TIMEms = 2161584
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 236592
+TIMEms = 2140389
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 216016
+TIMEms = 2196395
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 215210
+TIMEms = 2146329
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 221773
+TIMEms = 2137520
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 233775
+TIMEms = 2173975
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 221604
+TIMEms = 2143126
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 215504
+TIMEms = 2147261
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 240493
+TIMEms = 2173310
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 236719
+TIMEms = 2148838
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 236795
+TIMEms = 2134689
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 88529637
-TIMEms = 253744
+TIMEms = 2146225
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 71624
+TIMEms = 735319
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 71509
+TIMEms = 736025
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 71718
+TIMEms = 737789
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 71685
+TIMEms = 730903
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 71695
+TIMEms = 735023
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 78166
+TIMEms = 735529
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 76512
+TIMEms = 733538
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 78402
+TIMEms = 739319
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 71974
+TIMEms = 738240
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 77858
+TIMEms = 741907
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 71405
+TIMEms = 739068
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 71478
+TIMEms = 732614
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 30098745
-TIMEms = 78745
+TIMEms = 732776
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 187902
+TIMEms = 1770593
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 173381
+TIMEms = 1774741
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 166485
+TIMEms = 1775941
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 183730
+TIMEms = 1777963
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 166989
+TIMEms = 1776090
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 179355
+TIMEms = 1792867
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 182909
+TIMEms = 1785257
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 165541
+TIMEms = 1794347
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 170155
+TIMEms = 1782433
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 178085
+TIMEms = 1778426
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 193768
+TIMEms = 1775569
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 165088
+TIMEms = 1785222
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 63284829
-TIMEms = 165060
+TIMEms = 1770560
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 472317
+TIMEms = 4984581
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 504072
+TIMEms = 4940073
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 575719
+TIMEms = 4941961
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 518024
+TIMEms = 4999951
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 499196
+TIMEms = 5001071
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 473778
+TIMEms = 4973768
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 511211
+TIMEms = 4997605
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 518633
+TIMEms = 4973144
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 502457
+TIMEms = 5044506
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 518216
+TIMEms = 4960497
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 535795
+TIMEms = 5001557
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 525715
+TIMEms = 4925865
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
-TEST WRITETIME
-DSTYPE NitroCuckoo
+TEST READTIME
+DSTYPE NitroCuckoo-SMALL
 LENGTH 188511031
-TIMEms = 570353
+TIMEms = 4980987
 END

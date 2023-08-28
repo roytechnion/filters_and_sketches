@@ -3,461 +3,545 @@ TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.sma
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4507403
+TIMEms = 4495287
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4476040
+TIMEms = 4560449
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4427709
+TIMEms = 4485855
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4645503
+TIMEms = 4575198
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4644728
+TIMEms = 4536458
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4458323
+TIMEms = 4480452
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4398589
+TIMEms = 4589641
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4407461
+TIMEms = 4443347
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4470934
+TIMEms = 4397234
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4477523
+TIMEms = 4511013
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 133988641
-TIMEms = 4476810
+TIMEms = 4511019
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 133988641
+TIMEms = 4409574
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 133988641
+TIMEms = 4514424
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 24593
+TIMEms = 24592
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 24332
+TIMEms = 23710
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 26424
+TIMEms = 23433
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 23568
+TIMEms = 23447
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 23689
+TIMEms = 23623
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 23753
+TIMEms = 24038
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 25248
+TIMEms = 23809
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 23863
+TIMEms = 23422
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 24182
+TIMEms = 23429
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 24374
+TIMEms = 24345
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 1000001
-TIMEms = 23708
+TIMEms = 23563
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 1000001
+TIMEms = 24053
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 1000001
+TIMEms = 24587
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 266337
+TIMEms = 270606
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 268938
+TIMEms = 273222
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 269996
+TIMEms = 271964
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 268757
+TIMEms = 268753
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 268084
+TIMEms = 265912
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 267086
+TIMEms = 269744
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 270478
+TIMEms = 268564
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 266735
+TIMEms = 271961
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 265271
+TIMEms = 267344
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 266877
+TIMEms = 271775
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 10000000
-TIMEms = 266842
+TIMEms = 268411
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 10000000
+TIMEms = 272517
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 10000000
+TIMEms = 270657
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2590857
+TIMEms = 2581231
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2594519
+TIMEms = 2646899
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2599232
+TIMEms = 2683271
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2626936
+TIMEms = 2595711
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2550728
+TIMEms = 2595188
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2623046
+TIMEms = 2611941
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2656973
+TIMEms = 2557794
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2608249
+TIMEms = 2586837
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2579635
+TIMEms = 2597992
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2605730
+TIMEms = 2571432
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 88529637
-TIMEms = 2634232
+TIMEms = 2584616
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 88529637
+TIMEms = 2565354
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 88529637
+TIMEms = 2581072
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 905656
+TIMEms = 900062
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 901187
+TIMEms = 903614
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 903548
+TIMEms = 910199
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 893802
+TIMEms = 897981
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 902543
+TIMEms = 903381
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 898295
+TIMEms = 910049
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 910207
+TIMEms = 899122
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 898129
+TIMEms = 897712
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 904981
+TIMEms = 913220
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 896626
+TIMEms = 903064
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 30098745
-TIMEms = 897901
+TIMEms = 898799
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 30098745
+TIMEms = 907478
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 30098745
+TIMEms = 897321
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2336694
+TIMEms = 2372912
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2337884
+TIMEms = 2369610
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2330141
+TIMEms = 2357928
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2331441
+TIMEms = 2548263
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2360720
+TIMEms = 2353598
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2323016
+TIMEms = 2379186
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2342842
+TIMEms = 2355865
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2343266
+TIMEms = 2371954
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2339755
+TIMEms = 2375708
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2361604
+TIMEms = 2383917
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 63284829
-TIMEms = 2337095
+TIMEms = 2351732
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 63284829
+TIMEms = 2355127
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 63284829
+TIMEms = 2388927
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6007776
+TIMEms = 5943665
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 5991981
+TIMEms = 5941960
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6019302
+TIMEms = 5937550
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6095228
+TIMEms = 6029814
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6276073
+TIMEms = 5951279
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6053871
+TIMEms = 5896144
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6054579
+TIMEms = 5985024
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6048462
+TIMEms = 5995475
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6188734
+TIMEms = 5933862
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6049266
+TIMEms = 6013389
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST WRITETIME
 DSTYPE Cuckoo
 LENGTH 188511031
-TIMEms = 6343128
+TIMEms = 5957228
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 188511031
+TIMEms = 5893818
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST WRITETIME
+DSTYPE Cuckoo
+LENGTH 188511031
+TIMEms = 5914194
 END

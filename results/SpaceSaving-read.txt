@@ -3,461 +3,545 @@ TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.sma
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2069226
+TIMEms = 3230564
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2144881
+TIMEms = 2070201
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2019339
+TIMEms = 3418188
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2747125
+TIMEms = 2703102
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2880723
+TIMEms = 3111168
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2179202
+TIMEms = 2241786
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2046718
+TIMEms = 3241580
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2033714
+TIMEms = 2431713
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 3208785
+TIMEms = 2349629
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2157600
+TIMEms = 3098128
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 133988641
-TIMEms = 2727844
+TIMEms = 2165623
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 133988641
+TIMEms = 2554888
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 133988641
+TIMEms = 2005956
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 15893
+TIMEms = 15592
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 17160
+TIMEms = 20179
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 21436
+TIMEms = 22569
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 21579
+TIMEms = 16236
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 15856
+TIMEms = 22620
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 21295
+TIMEms = 22206
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 17663
+TIMEms = 16915
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 23162
+TIMEms = 22961
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 22663
+TIMEms = 15799
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 20761
+TIMEms = 22539
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 1000001
-TIMEms = 17453
+TIMEms = 23690
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 1000001
+TIMEms = 17568
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 1000001
+TIMEms = 22838
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 162978
+TIMEms = 232153
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 200959
+TIMEms = 218928
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 159487
+TIMEms = 230945
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 182141
+TIMEms = 199064
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 212423
+TIMEms = 237523
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 189667
+TIMEms = 173278
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 232305
+TIMEms = 176380
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 205099
+TIMEms = 161101
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 160445
+TIMEms = 171681
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 229111
+TIMEms = 177837
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 10000000
-TIMEms = 162924
+TIMEms = 160323
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 10000000
+TIMEms = 162301
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 10000000
+TIMEms = 189684
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 1599473
+TIMEms = 2112675
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 2063515
+TIMEms = 1858275
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 2131304
+TIMEms = 1765473
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 1936229
+TIMEms = 2062264
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 1410824
+TIMEms = 2153187
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 1409408
+TIMEms = 1444908
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 1411995
+TIMEms = 1481233
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 1470301
+TIMEms = 1600135
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 1655359
+TIMEms = 2034175
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 2104436
+TIMEms = 2018289
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 88529637
-TIMEms = 1462842
+TIMEms = 2000327
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 88529637
+TIMEms = 2037857
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 88529637
+TIMEms = 2057733
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 443327
+TIMEms = 460338
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 444393
+TIMEms = 591192
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 671197
+TIMEms = 564543
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 472240
+TIMEms = 477097
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 623565
+TIMEms = 681329
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 506069
+TIMEms = 461398
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 448757
+TIMEms = 443787
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 662434
+TIMEms = 611045
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 498923
+TIMEms = 560572
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 587548
+TIMEms = 599264
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 30098745
-TIMEms = 446091
+TIMEms = 674223
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 30098745
+TIMEms = 654735
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 30098745
+TIMEms = 469559
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 1013057
+TIMEms = 914812
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 926914
+TIMEms = 1484456
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 1271644
+TIMEms = 1397842
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 1380563
+TIMEms = 1295212
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 1009597
+TIMEms = 1466068
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 918223
+TIMEms = 1344701
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 1454903
+TIMEms = 1050748
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 1479959
+TIMEms = 914332
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 917456
+TIMEms = 1478699
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 989066
+TIMEms = 993975
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 63284829
-TIMEms = 1472154
+TIMEms = 1478836
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 63284829
+TIMEms = 1227372
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 63284829
+TIMEms = 1025125
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 4095531
+TIMEms = 4440124
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 4467463
+TIMEms = 3997320
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 3085805
+TIMEms = 3927581
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 3426142
+TIMEms = 2830052
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 2728268
+TIMEms = 2696423
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 2761618
+TIMEms = 4386194
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 3940145
+TIMEms = 4252829
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 3479741
+TIMEms = 2828978
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 2760030
+TIMEms = 2691106
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 4472602
+TIMEms = 3092688
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST READTIME
 DSTYPE SpaceSaving
 LENGTH 188511031
-TIMEms = 4320591
+TIMEms = 2697157
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 188511031
+TIMEms = 3475061
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST READTIME
+DSTYPE SpaceSaving
+LENGTH 188511031
+TIMEms = 4340451
 END

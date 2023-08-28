@@ -3,461 +3,545 @@ TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.sma
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6798379
+TIMEms = 12598502
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6923194
+TIMEms = 12589672
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6797581
+TIMEms = 12634045
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6842730
+TIMEms = 12587962
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6860111
+TIMEms = 13217978
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6755021
+TIMEms = 13200441
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6808785
+TIMEms = 13176779
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6786130
+TIMEms = 13116711
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6772122
+TIMEms = 12968746
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6751799
+TIMEms = 12649694
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 133988641
-TIMEms = 6774734
+TIMEms = 12698544
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 133988641
+TIMEms = 12551087
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago15.small.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 133988641
+TIMEms = 13049217
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 52571
+TIMEms = 95347
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 50386
+TIMEms = 95196
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 53171
+TIMEms = 96629
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 50085
+TIMEms = 95447
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 51427
+TIMEms = 96677
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 50487
+TIMEms = 94992
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 50732
+TIMEms = 94544
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 51243
+TIMEms = 95042
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 51979
+TIMEms = 95707
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 50313
+TIMEms = 96035
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 1000001
-TIMEms = 51511
+TIMEms = 94982
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 1000001
+TIMEms = 96654
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16Small.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 1000001
+TIMEms = 96387
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 506434
+TIMEms = 998252
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 505793
+TIMEms = 957545
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 507955
+TIMEms = 948941
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 507384
+TIMEms = 951756
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 506473
+TIMEms = 949786
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 506863
+TIMEms = 952097
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 508920
+TIMEms = 953275
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 506290
+TIMEms = 948559
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 510443
+TIMEms = 953216
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 510076
+TIMEms = 950005
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 10000000
-TIMEms = 506054
+TIMEms = 951256
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 10000000
+TIMEms = 955247
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago1610Mil.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 10000000
+TIMEms = 954338
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4559632
+TIMEms = 8923737
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 5020388
+TIMEms = 8455155
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4482736
+TIMEms = 8504582
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4525279
+TIMEms = 8744496
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4514777
+TIMEms = 8658055
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4537361
+TIMEms = 8565573
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4498446
+TIMEms = 8510658
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4496717
+TIMEms = 8742378
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4608005
+TIMEms = 8681755
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4517962
+TIMEms = 8642503
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 88529637
-TIMEms = 4492701
+TIMEms = 8663698
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 88529637
+TIMEms = 8467537
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\Chicago16.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 88529637
+TIMEms = 8408924
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1528107
+TIMEms = 2822729
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1545904
+TIMEms = 2827676
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1539634
+TIMEms = 2825253
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1524915
+TIMEms = 2824168
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1535075
+TIMEms = 2827971
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1523190
+TIMEms = 2834073
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1641093
+TIMEms = 2908857
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1533472
+TIMEms = 2875178
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1525564
+TIMEms = 2820076
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1804585
+TIMEms = 2818612
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 30098745
-TIMEms = 1533815
+TIMEms = 2830415
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 30098745
+TIMEms = 2872290
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19A.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 30098745
+TIMEms = 2828157
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3233036
+TIMEms = 6010187
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3225068
+TIMEms = 5992188
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3277181
+TIMEms = 6064390
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3234849
+TIMEms = 6096942
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3225434
+TIMEms = 6104889
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3205190
+TIMEms = 5952811
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3229766
+TIMEms = 5984788
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3221685
+TIMEms = 6137475
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3182292
+TIMEms = 6153472
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3206489
+TIMEms = 5940100
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 63284829
-TIMEms = 3188123
+TIMEms = 6113445
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 63284829
+TIMEms = 5965886
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\ny19B.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 63284829
+TIMEms = 5953034
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9569844
+TIMEms = 18092598
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9607561
+TIMEms = 18506805
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9608121
+TIMEms = 17880511
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9563776
+TIMEms = 17764175
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9565036
+TIMEms = 17674322
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9657241
+TIMEms = 17634547
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9591593
+TIMEms = 18258067
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9618351
+TIMEms = 17668352
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 11037724
+TIMEms = 17665718
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9705666
+TIMEms = 17813968
 END
 TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
 TEST RWTIME
 DSTYPE CMS
 LENGTH 188511031
-TIMEms = 9616175
+TIMEms = 18000063
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 188511031
+TIMEms = 17718447
+END
+TRACE c:\users\user\Dropbox (Technion Dropbox)\traces\dataCounters\SJ14.small.txt
+TEST RWTIME
+DSTYPE CMS
+LENGTH 188511031
+TIMEms = 17730084
 END
