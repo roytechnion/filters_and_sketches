@@ -27,6 +27,7 @@ The runtime options include:
 +  --verbose: Print extra debug info to the standard output
   
   The format of each line of a trace file is expacted to be <src_ip_1> <src_ip_2> <src_ip_3> <src_ip_4> <dst_ip_1> <dst_ip_2> <dst_ip_3> <dst_ip_4> [<something>], where each src_ip_i and dst_ip_i are a single byte (0-255). Inconsistencies are defaulted to 0.
+  
   [TODO: document output format]
 
   The .bat files include exampels on how to use the file that were used in the paper summarizing the results.
