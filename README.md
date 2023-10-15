@@ -6,6 +6,11 @@ NitroCMS can be also invoked with a compact optimization, where the allocated si
 The default implementation of CMS implements the minimal increment optimization; this can be turned off.
 The results of some experiments are summaized in paper [a].
 
+References:
+[a] Roy Friedman. "An Evaluation of Software Sketches". https://arxiv.org/abs/2309.03045.
+[b] Zaoxing Liu, Ran Ben-Basat, Gil Einziger, Yaron Kassner, Vladimir Braverman, Roy Friedman, and Vyas Sekar. "Nitrosketch: Robust and General Sketch-based Monitoring in Software Switches". https://dl.acm.org/doi/10.1145/3341302.3342076.
+[c] Ran Ben Basat, Xiaoqi Chen, Gil Einziger, Roy Friedman and Yaron Kassner. "Randomized Admission Policy for Efficient Top-k, Frequency, and Volume Estimation". https://ieeexplore.ieee.org/document/8734012
+
 The runtime options include:
   --file-path: The location of the trace/workload
   --ds-type: The sketch/filter to be used. Permitted valued include HASH, NitroHash, CMS, NitroCMS, SpaceSaving, Cuckoo, NitroCuckoo
