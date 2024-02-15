@@ -19,6 +19,7 @@ use crate::more_streaming::space_saving::SpaceSaving;
 use crate::more_streaming::nitro_hash::NitroHash;
 use crate::more_streaming::cuckoo::CuckooCountingFilter;
 use crate::more_streaming::nitro_cuckoo::NitroCuckoo;
+use crate::more_streaming::facs::FACS;
 use crate::more_streaming::traits::{ItemIncrement,ItemQuery,PrintMemoryInfo};
 //use crate::more_streaming::f64_to_usize;
 
@@ -32,7 +33,7 @@ use cap::Cap;
 static ALLOCATOR: Cap<alloc::System> = Cap::new(alloc::System, usize::max_value());
 
 #[derive(Debug,Clone)]
-pub enum DsType { HASH, CMS, NitroCMS, FPDASH, SpaceSaving, NitroHash, Cuckoo, NitroCuckoo }
+pub enum DsType { HASH, CMS, NitroCMS, FPDASH, SpaceSaving, NitroHash, Cuckoo, NitroCuckoo, FACS }
 
 impl FromStr for DsType {
     type Err = String;
@@ -47,7 +48,8 @@ impl FromStr for DsType {
             "NitroHash" => Ok(DsType::NitroHash),
             "Cuckoo" => Ok(DsType::Cuckoo),
             "NitroCuckoo" => Ok(DsType::NitroCuckoo),
-            _ => Err(format!("Unrecognized DsType {s}: try HASH, CMS, NitroCMS, SpaceSaving, FDDASH, NitroHash, Cuckoo or NitroCuckoo"))
+            "FACS" => Ok(DsType::FACS),
+            _ => Err(format!("Unrecognized DsType {s}: try HASH, CMS, NitroCMS, SpaceSaving, FDDASH, NitroHash, Cuckoo, NitroCuckoo or FACS"))
         }
     }
 }
@@ -116,7 +118,7 @@ pub struct FlowId {
     dstip : Ipv4Addr,
 }
 
-fn id_from_line(line: &str) -> Result<FlowId, Box<dyn Error>> {
+pub fn id_from_line(line: &str) -> Result<FlowId, Box<dyn Error>> {
     let mut parts = line.split_whitespace();
     let srcip: Ipv4Addr = Ipv4Addr::new(
         parts.next().unwrap_or_else(|| "0").parse().unwrap_or_else(|_| 0),
@@ -265,6 +267,16 @@ fn nitrocuckoo_time(config: Config, processed: Vec<FlowId>) -> Duration {
     } else {
         NitroCuckoo::<DefaultHasher>::with_capacity(processed.len(), config.sample)
     };
+    return generic_time(config, processed, counts);
+}
+
+fn facs_accuracy(config: Config, processed: Vec<FlowId>) -> () {
+    let counts: FACS = FACS::new(config.sample);
+    return generic_accuracy(config, processed, counts, true);
+}
+
+fn facs_time(config: Config, processed: Vec<FlowId>) -> Duration {
+    let counts: FACS = FACS::new(config.sample);
     return generic_time(config, processed, counts);
 }
 
@@ -418,6 +430,7 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
             DsType::NitroHash => nitrohash_accuracy(config, processed),
             DsType::Cuckoo => cuckoo_accuracy(config, processed),
             DsType::NitroCuckoo => nitrocuckoo_accuracy(config, processed),
+            DsType::FACS => facs_accuracy(config, processed),
             //_ => (),
         };
     } else {
@@ -430,6 +443,7 @@ pub fn run(config: Config) -> Result<(), Box<dyn Error>> {
             DsType::NitroHash => nitrohash_time(config, processed),
             DsType::Cuckoo => cuckoo_time(config, processed),
             DsType::NitroCuckoo => nitrocuckoo_time(config, processed),
+            DsType::FACS => facs_time(config, processed),
             //_ => (),
         };
         println!("TIMEms = {}", elapsed_time.as_micros());

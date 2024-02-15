@@ -1,4 +1,4 @@
-use crate::{FlowId,NitroHash,SpaceSaving,NitroCMS,CuckooCountingFilter,NitroCuckoo};
+use crate::{FlowId,NitroHash,SpaceSaving,NitroCMS,CuckooCountingFilter,NitroCuckoo,FACS};
 use amadeus_streaming::CountMinSketch;
 use crate::Hasher;
 use std::collections::HashMap;
@@ -51,6 +51,12 @@ where H:Hasher + Default,
 		self.add(&id).unwrap();
 	}
 }
+impl ItemIncrement for FACS {
+	fn item_increment(&mut self,id: FlowId) {
+		self.insert(id);
+	}
+}
+
 
 /// Query for an item's frequency
 pub trait ItemQuery {
@@ -84,7 +90,7 @@ impl ItemQuery for NitroCMS<FlowId,u32> {
 impl ItemQuery for HashMap<FlowId,u32> {
 	type Item = u32;
 	fn item_query(&self,id: FlowId) -> u32 {
-		return *self.get(&id).unwrap();
+		return *self.get(&id).unwrap_or(&0);
 	}
 }
 impl <H>ItemQuery for CuckooCountingFilter<H> 
@@ -101,6 +107,12 @@ where H:Hasher + Default,
 	type Item = u32;
 	fn item_query(&self,id: FlowId) -> u32 {
 		return self.get(&id);
+	}
+}
+impl ItemQuery for FACS {
+	type Item = u32;
+	fn item_query(&self,id: FlowId) -> u32 {
+		return self.get(id);
 	}
 }
 
@@ -150,6 +162,12 @@ where H:Hasher + Default,
 	fn print_memory_info(&self) -> () {
 		println!("Total memory: {}", self.capacity() * (size_of::<u32>() + size_of::<u8>())); // TODO - replace with fingerprint_size
 		println!("Number of items: {} consuming {} space", self.len(), self.len() * (size_of::<FlowId>() + size_of::<u8>())); // TODO - replace with fingerprint_size
+	}
+}
+impl PrintMemoryInfo for FACS {
+	fn print_memory_info(&self) -> () {
+		println!("Total memory: {}", self.capacity() * (size_of::<FlowId>() + size_of::<u32>()));
+		// println!("Number of items: {} consuming {} space", self.len(), self.len() * (size_of::<FlowId>() + size_of::<u32>())); // TODO - does this makes sense?
 	}
 }
 

@@ -124,7 +124,7 @@ dependencies = [
 
 [[package]]
 name = "filters_and_sketches"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "amadeus-streaming",
  "byteorder",
